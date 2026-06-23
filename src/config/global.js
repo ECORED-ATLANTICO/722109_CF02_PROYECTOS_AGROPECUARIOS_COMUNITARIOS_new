@@ -1,19 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Implementación, seguimiento y mejora del modelo organizacional',
+    Description:
+      'BREVE DESCRIPCIÓN	El componente formativo busca fortalecer las capacidades para implementar, verificar y mejorar procesos organizacionales en organizaciones rurales y comunitarias. Para ello, aborda conceptos, herramientas y metodologías relacionadas con la gestión organizacional, la coordinación de actividades, la administración de recursos y el fortalecimiento institucional. Asimismo, promueve habilidades para la comunicación efectiva, la socialización de procesos y la presentación de información, favoreciendo la participación, el trabajo colaborativo y la articulación entre los diferentes actores involucrados en los proyectos agropecuarios comunitarios.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
   },
   menuPrincipal: {
     menu: [
