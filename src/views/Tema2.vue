@@ -57,10 +57,10 @@
     p.mb-4(data-aos="zoom-in-right") Entre las características de las estrategias de comunicación, tenemos:
 
     .row.justify-content-center.align-items-center.mb-5 
-      .col-10.col-lg-4.col-xl-4.mb-3.mb-lg-0(data-aos="zoom-out-up")
+      .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-out-up")
         figure
           img(src='@/assets/curso/tema2/img_4.png', class="img-fluid")
-      .col-12.col-lg-12.col-xl-8
+      .col-12.col-lg-8
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-12 col-lg-6").p-2.rounded-3
             .tarjeta-img-titulo
@@ -148,10 +148,10 @@
     p.mb-4(data-aos="zoom-in-right") Las técnicas de comunicación corresponden a los métodos utilizados para facilitar el intercambio de información entre las personas y promover una comprensión adecuada de los mensajes. Su aplicación permite mejorar la interacción entre los integrantes de la organización y fortalecer los procesos de coordinación y participación. A continuación, se muestran las más importantes:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-4.col-xl-4mb-3.mb-lg-0(data-aos="flip-left")
+      .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_14.png', class="img-fluid")
-      .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-lg-8.mb-3.mb-lg-0(data-aos="flip-left")
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-12 col-lg-6").p-2.rounded-3
             .tarjeta--white.h-100
@@ -351,7 +351,7 @@
       .subtitulo-destacado__fondo
         h4.subtitulo-destacado__texto Beneficios de la socialización
 
-    .bg_img_2_1.mb-0
+    .bg_img_2.mb-0
 
       .row.justify-content-center.align-items-center.mb-4
         .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
@@ -359,7 +359,7 @@
             img(src='@/assets/curso/tema2/img_24.png', class="img-fluid")
         .col-12.col-lg-8.mb-3.mb-lg-0
           p.mb-4(data-aos="zoom-in-right") La socialización constituye una herramienta fundamental para fortalecer la comunicación organizacional y la participación de los diferentes actores. Cuando se desarrolla de manera adecuada, contribuye a mejorar la comprensión de los procesos, generar confianza y facilitar la construcción conjunta de soluciones. Entre los principales beneficios de la socialización se encuentran:
-          ul.list-unstyled.mb-4
+          ul.list-unstyled.mb-0
             li.d-flex.align-items-baseline.mb-3
               i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
               span Incrementa la confianza entre los participantes. 
