@@ -288,25 +288,29 @@
             img(src='@/assets/curso/tema2/img_22.png', class="img-fluid")
         .col-12.col-lg-9.mb-3.mb-lg-0
           p.mb-4(data-aos="zoom-in-right") La socialización tiene como finalidad compartir información relevante con los diferentes actores involucrados en los procesos organizacionales, promoviendo la participación, el diálogo y la construcción colectiva de conocimiento. A través de este proceso se busca garantizar que las actividades desarrolladas, los resultados obtenidos y las decisiones adoptadas sean conocidos por los miembros de la organización y demás grupos de interés. Los principales objetivos de la socialización son:
-          ul.list-unstyled.mb-4
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Informar sobre las actividades ejecutadas. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Compartir avances y logros alcanzados. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Dar a conocer dificultades identificadas. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Promover la participación de los actores involucrados. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Generar espacios de diálogo y retroalimentación. 
-            li.d-flex.align-items-baseline.mb-0
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Fortalecer la transparencia organizacional. 
+          .row.justify-content-start.align-items-start.mb-0
+            .col-12.col-lg-6
+              ul.list-unstyled.mb-4
+                li.d-flex.align-items-baseline.mb-3
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Informar sobre las actividades ejecutadas. 
+                li.d-flex.align-items-baseline.mb-3
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Compartir avances y logros alcanzados. 
+                li.d-flex.align-items-baseline.mb-3
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Dar a conocer dificultades identificadas. 
+            .col-12.col-lg-6
+              ul.list-unstyled.mb-4
+                li.d-flex.align-items-baseline.mb-3
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Promover la participación de los actores involucrados. 
+                li.d-flex.align-items-baseline.mb-3
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Generar espacios de diálogo y retroalimentación. 
+                li.d-flex.align-items-baseline.mb-0
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Fortalecer la transparencia organizacional. 
 
     .subtitulo-destacado.mb-5
       .subtitulo-destacado__icono
