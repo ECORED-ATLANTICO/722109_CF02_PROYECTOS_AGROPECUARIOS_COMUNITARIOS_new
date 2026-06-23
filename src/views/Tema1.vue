@@ -74,7 +74,7 @@
     p.mb-5(data-aos="zoom-in-right") Las estrategias de implementación son acciones planificadas que facilitan la ejecución ordenada y eficiente del modelo organizacional. Estas estrategias permiten orientar el trabajo de los equipos, organizar recursos y garantizar el cumplimiento de los objetivos propuestos. Entre las principales estrategias se encuentran:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-10.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema1/img_8.png', class="img-fluid")
       .col-12.col-lg-8.mb-3.mb-lg-0
@@ -112,7 +112,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-10.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema1/img_10.png', class="img-fluid")
       .col-12.col-lg-8.mb-3.mb-lg-0
@@ -177,7 +177,7 @@
 
       .row.justify-content-center.align-items-center.mb-4
         .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
-          p.mb-4(data-aos="zoom-in-right") La asignación de responsabilidades consiste en definir claramente quién será el encargado de ejecutar, supervisar o apoyar cada una de las actividades contempladas en el proceso de implementación. Cuando las responsabilidades están claramente establecidas se facilita la coordinación, se reducen los conflictos y se fortalece el compromiso de los participantes. Los elementos para la asignación de responsabilidades son los siguientes:
+          p.mb-4 La asignación de responsabilidades consiste en definir claramente quién será el encargado de ejecutar, supervisar o apoyar cada una de las actividades contempladas en el proceso de implementación. Cuando las responsabilidades están claramente establecidas se facilita la coordinación, se reducen los conflictos y se fortalece el compromiso de los participantes. Los elementos para la asignación de responsabilidades son los siguientes:
           ul.list-unstyled.mb-0
             li.d-flex.align-items-baseline.mb-0
               i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
@@ -197,7 +197,7 @@
             li.d-flex.align-items-baseline.mb-0
               i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
               span Definición de mecanismos de seguimiento. 
-        .col-6.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+        .col-12.col-md-8.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema1/img_17.png', class="img-fluid")
 

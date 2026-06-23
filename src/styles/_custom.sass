@@ -58,6 +58,7 @@ figcaption
   display: flex
   align-items: center
   justify-content: center
+  
 
   figure
     width: 100%
@@ -67,6 +68,12 @@ figcaption
       width: 100%
       height: auto
       display: block
+      margin-left: -30px
+      // Móvil pequeño (≤576px)
+      @media (max-width: $bp-max-xs)
+        margin-left: -10px
+        
+      
 
 // Bloque con fondo decorativo
 .bloque-enlace
@@ -81,7 +88,7 @@ figcaption
   border-radius: 20px
   padding: 2rem 11rem 2rem 5rem
   min-height: 160px
-  margin-left: -2rem
+  margin-left: -5rem
   overflow: hidden
 
   &__contenido
@@ -113,6 +120,7 @@ figcaption
   @media (max-width: $bp-max-lg)
     padding: 1.75rem 9rem 1.75rem 4rem
     min-height: 150px
+    margin-left: -4rem
     gap: 1.25rem
 
     &__contenido
@@ -123,7 +131,7 @@ figcaption
   @media (max-width: $bp-max-md)
     padding: 1.5rem 7rem 1.5rem 3rem
     min-height: 140px
-    margin-left: -3rem
+    margin-left: -4rem
     gap: 1rem
 
     &__contenido
@@ -140,7 +148,7 @@ figcaption
     align-items: flex-start
     padding: 2rem 4rem 2rem 4rem
     min-height: auto
-    margin-left: -2.5rem
+    margin-left: -6rem
     background-size: cover
     background-position: center
     gap: 1rem
@@ -162,7 +170,7 @@ figcaption
   // Móvil pequeño (≤576px)
   @media (max-width: $bp-max-xs)
     padding: 2rem 3rem 2rem 3rem
-    margin-left: -2rem
+    margin-left: -3rem
     background-size: cover
 
     &__contenido
@@ -651,6 +659,40 @@ figcaption
       background-size: 100% 100%
       z-index: -1
       pointer-events: none
+      @media (max-width: 1024px)
+          width: 130%
+      @media (max-width: 991px)
+          width: 350%
+      @media (max-width: 767px)
+          width: 700%
+    > *
+      position: relative
+      z-index: 2
+  &_1_1
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    padding: 2rem 0rem
+    z-index: 1
+    &::before
+      content: ''
+      position: absolute
+      top: -35px
+      bottom: 0
+      left: -55px
+      right: -55px
+      background-image: url('../assets/curso/tema1/img_16.svg')
+      background-repeat: no-repeat
+      background-position: center
+      background-size: 100% 100%
+      z-index: -1
+      pointer-events: none
+      @media (max-width: 1024px)
+          width: 160%
+      @media (max-width: 991px)
+          width: 450%
+      @media (max-width: 767px)
+          width: 750%
     > *
       position: relative
       z-index: 2
@@ -673,6 +715,40 @@ figcaption
       background-size: 100% 100%
       z-index: -1
       pointer-events: none
+      @media (max-width: 1024px)
+          width: 180%
+      @media (max-width: 991px)
+          width: 480%
+      @media (max-width: 767px)
+          width: 820%
+    > *
+      position: relative
+      z-index: 2
+  &_2_1
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    padding: 2rem 0rem
+    z-index: 1
+    &::before
+      content: ''
+      position: absolute
+      top: -47px
+      bottom: -47px
+      left: -55px
+      right: -55px
+      background-image: url('../assets/curso/tema2/img_20.svg')
+      background-repeat: no-repeat
+      background-position: center
+      background-size: 100% 100%
+      z-index: -1
+      pointer-events: none
+      @media (max-width: 1024px)
+          width: 150%
+      @media (max-width: 991px)
+          width: 410%
+      @media (max-width: 767px)
+          width: 690%
     > *
       position: relative
       z-index: 2
@@ -695,6 +771,12 @@ figcaption
       background-size: 100% 100%
       z-index: -1
       pointer-events: none
+      @media (max-width: 1024px)
+          width: 160%
+      @media (max-width: 991px)
+          width: 480%
+      @media (max-width: 767px)
+          width: 820%
     > *
       position: relative
       z-index: 2

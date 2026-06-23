@@ -32,7 +32,7 @@
               .bloque-enlace__accion
                 a.boton-enlace(href="https://www.youtube.com/watch?v=MbfA7LEGRrQ" target="_blank" rel="noopener noreferrer")
                   span.boton-enlace__texto Enlace
-                  i.fas.fa-file-download.boton-enlace__icono
+                  i.fab.fa-youtube.boton-enlace__icono
 
     Separador
 
@@ -57,10 +57,10 @@
     p.mb-4(data-aos="zoom-in-right") Entre las características de las estrategias de comunicación, tenemos:
 
     .row.justify-content-center.align-items-center.mb-5 
-      .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-out-up")
+      .col-10.col-lg-4.col-xl-4.mb-3.mb-lg-0(data-aos="zoom-out-up")
         figure
           img(src='@/assets/curso/tema2/img_4.png', class="img-fluid")
-      .col-12.col-lg-8
+      .col-12.col-lg-12.col-xl-8
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-12 col-lg-6").p-2.rounded-3
             .tarjeta-img-titulo
@@ -148,10 +148,10 @@
     p.mb-4(data-aos="zoom-in-right") Las técnicas de comunicación corresponden a los métodos utilizados para facilitar el intercambio de información entre las personas y promover una comprensión adecuada de los mensajes. Su aplicación permite mejorar la interacción entre los integrantes de la organización y fortalecer los procesos de coordinación y participación. A continuación, se muestran las más importantes:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-10.col-lg-4.col-xl-4mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_14.png', class="img-fluid")
-      .col-12.col-lg-8.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0(data-aos="flip-left")
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-12 col-lg-6").p-2.rounded-3
             .tarjeta--white.h-100
@@ -261,7 +261,7 @@
             li.d-flex.align-items-baseline.mb-0
               i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
               span Mantener coherencia entre el mensaje y las acciones desarrolladas. 
-        .col-6.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+        .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema2/img_21.png', class="img-fluid")
 
@@ -283,7 +283,7 @@
 
     .tarjeta.color-secundario-10.p-4.rounded-4.mb-4.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0
-        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+        .col-12.col-md-10.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema2/img_22.png', class="img-fluid")
         .col-12.col-lg-9.mb-3.mb-lg-0
@@ -351,10 +351,10 @@
       .subtitulo-destacado__fondo
         h4.subtitulo-destacado__texto Beneficios de la socialización
 
-    .bg_img_2.mb-0
+    .bg_img_2_1.mb-0
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-6.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+        .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema2/img_24.png', class="img-fluid")
         .col-12.col-lg-8.mb-3.mb-lg-0
@@ -388,7 +388,7 @@
       p.mb-0 La presentación de información constituye una actividad fundamental dentro de los procesos de implementación, seguimiento y evaluación organizacional, ya que permite comunicar de manera clara y oportuna los avances, resultados, dificultades y logros obtenidos durante el desarrollo de las actividades. Este proceso facilita la rendición de cuentas, fortalece la transparencia institucional y promueve la participación de los diferentes actores relacionados con la organización.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_25.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0
@@ -457,13 +457,13 @@
     
     p.mb-4(data-aos="zoom-in-right") Además de estos aspectos, es recomendable prever espacios para preguntas, comentarios y retroalimentación, permitiendo que los participantes expresen sus opiniones y aporten sugerencias que contribuyan al fortalecimiento de los procesos organizacionales.
 
-    .subtitulo-destacado.mb-5
+    .subtitulo-destacado.mb-3
       .subtitulo-destacado__icono
         img(src='@/assets/curso/tema2/img_13.svg', aria-hidden='true').subtitulo-destacado__img
       .subtitulo-destacado__fondo
         h4.subtitulo-destacado__texto Recursos utilizados en las presentaciones
 
-    .bg_img_1.mb-0
+    .bg_img_1_1.mb-0
 
       .row.justify-content-center.align-items-center.mb-4
         .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
@@ -487,7 +487,7 @@
             li.d-flex.align-items-baseline.mb-0
               i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
               span Boletines informativos. 
-        .col-6.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+        .col-12.col-md-10.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema2/img_29.png', class="img-fluid")
 
@@ -585,7 +585,7 @@
             li.d-flex.align-items-baseline.mb-0
               i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
               span Mecanismos de consulta y retroalimentación. 
-        .col-10.col-lg-5.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+        .col-12-col-md-10.col-lg-5.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema2/img_37.png', class="img-fluid")
 </template>
