@@ -7,7 +7,7 @@
         span 4
       h1 Evaluación, informes y ajuste del modelo organizacional
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img_1.png')})`}"
       )
@@ -34,23 +34,23 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
-        TabsA.color-secundario.mb-3.uno.mb-5
-          .tarjeta.color-secundario-10.p-5(titulo="Informe de actividades")
-            h5.mb-4 Informe de actividades
-            p.mb-0 Describe las acciones ejecutadas durante un período determinado, detallando las tareas realizadas y los responsables involucrados.
-          .tarjeta.color-secundario-10.p-5(titulo="Informe de seguimiento")
-            h5.mb-4 Informe de seguimiento
-            p.mb-0 Presenta el avance de las actividades, el cumplimiento de cronogramas y el estado de ejecución de los procesos organizacionales.
-          .tarjeta.color-secundario-10.p-5(titulo="Informe de gestión")
-            h5.mb-4 Informe de gestión
-            p.mb-0 Resume los resultados obtenidos en una organización o dependencia durante un período específico, evidenciando el cumplimiento de objetivos y metas.
-          .tarjeta.color-secundario-10.p-5(titulo="Informe técnico")
-            h5.mb-4 Informe técnico
-            p.mb-0 Presenta análisis especializados, resultados de estudios, diagnósticos o evaluaciones que requieren un tratamiento técnico de la información.
-          .tarjeta.color-secundario-10.p-5(titulo="Informe final")
-            h5.mb-4 Informe final
-            p.mb-0 Consolida los resultados generales, logros, dificultades y conclusiones obtenidas al finalizar un proyecto, programa o proceso organizacional.
-      .col-10.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+          .row.justify-content-center.align-items-center(titulo="Informe de actividades")
+            .col-12.col-lg-12.mb-3.mb-lg-0
+              p.mb-0 Describe las acciones ejecutadas durante un período determinado, detallando las tareas realizadas y los responsables involucrados.
+          .row.justify-content-center.align-items-center(titulo="Informe de seguimiento")
+            .col-12.col-lg-12.mb-3.mb-lg-0
+              p.mb-0 Presenta el avance de las actividades, el cumplimiento de cronogramas y el estado de ejecución de los procesos organizacionales.
+          .row.justify-content-center.align-items-center(titulo="Informe de gestión")
+            .col-12.col-lg-12.mb-3.mb-lg-0
+              p.mb-0 Resume los resultados obtenidos en una organización o dependencia durante un período específico, evidenciando el cumplimiento de objetivos y metas.
+          .row.justify-content-center.align-items-center(titulo="Informe técnico")
+            .col-12.col-lg-12.mb-3.mb-lg-0
+              p.mb-0 Presenta análisis especializados, resultados de estudios, diagnósticos o evaluaciones que requieren un tratamiento técnico de la información.
+          .row.justify-content-center.align-items-center(titulo="Informe final")
+            .col-12.col-lg-12.mb-3.mb-lg-0
+              p.mb-0 Consolida los resultados generales, logros, dificultades y conclusiones obtenidas al finalizar un proyecto, programa o proceso organizacional.
+      .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema4/img_2.png', class="img-fluid")
 
@@ -62,51 +62,37 @@
 
     p.mb-5(data-aos="zoom-in-right") Para que un informe cumpla adecuadamente su función de comunicar información y apoyar la toma de decisiones, debe reunir una serie de características que garanticen su calidad y utilidad, como lo son:
 
-    .bg_img_3.mb-3
-
-      SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-0(data-aos="zoom-in-right")
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5.mb-4 Claridad y precisión
-            p.mb-0 La información debe presentarse de forma comprensible, concreta y ordenada, evitando ambigüedades o interpretaciones erróneas que puedan afectar la comprensión del contenido y los resultados expuestos.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
-            figure
-              img(src='@/assets/curso/tema4/img_3.png', class="img-fluid")
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5.mb-4 Información verificable
-            p.mb-0 Los datos y resultados incluidos en el informe deben estar sustentados en evidencias, registros o fuentes confiables que permitan comprobar la validez y exactitud de la información presentada.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
-            figure
-              img(src='@/assets/curso/tema4/img_3.png', class="img-fluid")
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5.mb-4 Organización lógica
-            p.mb-0 El contenido debe seguir una secuencia coherente que facilite la lectura y comprensión de los temas desarrollados, permitiendo identificar fácilmente los aspectos más relevantes del informe.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
-            figure
-              img(src='@/assets/curso/tema4/img_3.png', class="img-fluid")
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5.mb-4 Objetividad
-            p.mb-0 La información debe presentarse de manera imparcial, basada en hechos y evidencias, evitando opiniones personales que puedan afectar la interpretación de los resultados o situaciones analizadas.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
-            figure
-              img(src='@/assets/curso/tema4/img_3.png', class="img-fluid")
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5.mb-4 Lenguaje técnico apropiado
-            p.mb-0 El informe debe utilizar términos acordes con el contexto y la temática abordada, favoreciendo una comunicación precisa y adecuada para los destinatarios de la información.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
-            figure
-              img(src='@/assets/curso/tema4/img_3.png', class="img-fluid")
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5.mb-4 Soporte documental
-            p.mb-0 El informe debe estar respaldado por documentos, registros, fotografías, actas u otras evidencias que sustenten la información presentada y fortalezcan su credibilidad.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
-            figure
-              img(src='@/assets/curso/tema4/img_3.png', class="img-fluid")
+    .row.justify-content-center.align-items-center
+      .col-12.col-lg-8.order-2.order-lg-1.mb-0
+        .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
+          SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-0(data-aos="zoom-in-right")
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-10.mb-0
+                h5.mb-4 Claridad y precisión
+                p.mb-0 La información debe presentarse de forma comprensible, concreta y ordenada, evitando ambigüedades o interpretaciones erróneas que puedan afectar la comprensión del contenido y los resultados expuestos.
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-10.mb-0
+                h5.mb-4 Información verificable
+                p.mb-0 Los datos y resultados incluidos en el informe deben estar sustentados en evidencias, registros o fuentes confiables que permitan comprobar la validez y exactitud de la información presentada.
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-10.mb-0
+                h5.mb-4 Organización lógica
+                p.mb-0 El contenido debe seguir una secuencia coherente que facilite la lectura y comprensión de los temas desarrollados, permitiendo identificar fácilmente los aspectos más relevantes del informe.
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-10.mb-0
+                h5.mb-4 Objetividad
+                p.mb-0 La información debe presentarse de manera imparcial, basada en hechos y evidencias, evitando opiniones personales que puedan afectar la interpretación de los resultados o situaciones analizadas.
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-10.mb-0
+                h5.mb-4 Lenguaje técnico apropiado
+                p.mb-0 El informe debe utilizar términos acordes con el contexto y la temática abordada, favoreciendo una comunicación precisa y adecuada para los destinatarios de la información.
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-10.mb-0
+                h5.mb-4 Soporte documental
+                p.mb-0 El informe debe estar respaldado por documentos, registros, fotografías, actas u otras evidencias que sustenten la información presentada y fortalezcan su credibilidad.
+      .col-8.col-lg-4.order-1.order-lg-2.mb-0.mb-lg-0
+        figure
+          img(src='@/assets/curso/tema4/img_3.png', class="img-fluid")
 
     br
 

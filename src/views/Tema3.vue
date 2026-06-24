@@ -91,26 +91,30 @@
 
       .row.justify-content-center.align-items-center.mb-4
         .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
-          p.mb-4 Las siguientes características convierten al seguimiento en una herramienta indispensable para la gestión organizacional, ya que permite mantener un control permanente sobre las actividades y garantizar que los esfuerzos institucionales se orienten hacia el logro de los resultados esperados.
-          ul.list-unstyled.mb-0
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Es un proceso continuo y sistemático. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Se desarrolla durante toda la implementación. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Utiliza información verificable. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Facilita la identificación de desviaciones. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Apoya la toma de decisiones. 
-            li.d-flex.align-items-baseline.mb-0
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Promueve la transparencia organizacional. 
+          p.mb-5 Las siguientes características convierten al seguimiento en una herramienta indispensable para la gestión organizacional, ya que permite mantener un control permanente sobre las actividades y garantizar que los esfuerzos institucionales se orienten hacia el logro de los resultados esperados.
+          .row.justify-content-center.align-items-center.mb-4
+            .col-12.col-lg-6.mb-3.mb-lg-0
+              ul.list-unstyled.mb-0
+                li.d-flex.align-items-baseline.mb-4
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Es un proceso continuo y sistemático. 
+                li.d-flex.align-items-baseline.mb-4
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Se desarrolla durante toda la implementación. 
+                li.d-flex.align-items-baseline.mb-4.mb-lg-0
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Utiliza información verificable. 
+            .col-12.col-lg-6.mb-3.mb-lg-0
+              ul.list-unstyled.mb-0
+                li.d-flex.align-items-baseline.mb-4
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Facilita la identificación de desviaciones. 
+                li.d-flex.align-items-baseline.mb-4
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Apoya la toma de decisiones. 
+                li.d-flex.align-items-baseline.mb-0
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Promueve la transparencia organizacional. 
         .col-12.col-md-8.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema3/img_4.png', class="img-fluid")
@@ -188,26 +192,30 @@
           figure
             img(src='@/assets/curso/tema3/img_12.png', class="img-fluid")
         .col-12.col-lg-8.mb-3.mb-lg-0
-          p.mb-4(data-aos="zoom-in-right") Las acciones de control permiten verificar el avance de los procesos y generar información para la toma de decisiones. Su aplicación periódica facilita la identificación de aspectos que requieren fortalecimiento y contribuye al mejoramiento del desempeño organizacional.
-          ul.list-unstyled.mb-4
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Verificación de actividades ejecutadas. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Revisión del cumplimiento de cronogramas. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Seguimiento a la utilización de recursos. 
-            li.d-flex.align-items-baseline.mb-3
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Identificación de dificultades operativas. 
-            li.d-flex.align-items-baseline.mb-0
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Registro de avances y resultados. 
-            li.d-flex.align-items-baseline.mb-0
-              i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
-              span Evaluación del desempeño de los procesos. 
+          p.mb-5(data-aos="zoom-in-right") Las acciones de control permiten verificar el avance de los procesos y generar información para la toma de decisiones. Su aplicación periódica facilita la identificación de aspectos que requieren fortalecimiento y contribuye al mejoramiento del desempeño organizacional.
+          .row.justify-content-center.align-items-center.mb-4
+            .col-12.col-lg-6.mb-3.mb-lg-0
+              ul.list-unstyled.mb-4
+                li.d-flex.align-items-baseline.mb-4
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Verificación de actividades ejecutadas. 
+                li.d-flex.align-items-baseline.mb-4
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Revisión del cumplimiento de cronogramas. 
+                li.d-flex.align-items-baseline.mb-4.mb-lg-0
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Seguimiento a la utilización de recursos. 
+            .col-12.col-lg-6.mb-3.mb-lg-0
+              ul.list-unstyled.mb-4
+                li.d-flex.align-items-baseline.mb-4
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Identificación de dificultades operativas. 
+                li.d-flex.align-items-baseline.mb-4
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Registro de avances y resultados. 
+                li.d-flex.align-items-baseline.mb-0
+                  i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
+                  span Evaluación del desempeño de los procesos. 
           p.mb-0(data-aos="zoom-in-right") Estas acciones permiten mantener una supervisión constante sobre el desarrollo de las actividades y facilitan la implementación de medidas que contribuyan al fortalecimiento de la gestión organizacional.
 
     br
