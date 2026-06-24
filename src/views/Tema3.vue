@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
-        p.mb-4(data-aos="zoom-in-right") La implementación de un modelo organizacional requiere mecanismos que permitan verificar el cumplimiento de las actividades programadas y evaluar el avance hacia los objetivos establecidos. Para ello, las organizaciones deben desarrollar procesos de seguimiento y verificación que faciliten el control de las acciones ejecutadas, la identificación de dificultades y la adopción de medidas de mejora cuando sea necesario. El seguimiento constituye una actividad permanente que permite recopilar información sobre el desarrollo de los procesos organizacionales, mientras que la verificación busca confirmar que las actividades se ejecutan de acuerdo con los planes, procedimientos y parámetros previamente definidos. Ambos procesos contribuyen al fortalecimiento de la gestión organizacional, mejoran la toma de decisiones y favorecen el cumplimiento de los resultados esperados. 
+        p.mb-0(data-aos="zoom-in-right") La implementación de un modelo organizacional requiere mecanismos que permitan verificar el cumplimiento de las actividades programadas y evaluar el avance hacia los objetivos establecidos. Para ello, las organizaciones deben desarrollar procesos de seguimiento y verificación que faciliten el control de las acciones ejecutadas, la identificación de dificultades y la adopción de medidas de mejora cuando sea necesario. El seguimiento constituye una actividad permanente que permite recopilar información sobre el desarrollo de los procesos organizacionales, mientras que la verificación busca confirmar que las actividades se ejecutan de acuerdo con los planes, procedimientos y parámetros previamente definidos. Ambos procesos contribuyen al fortalecimiento de la gestión organizacional, mejoran la toma de decisiones y favorecen el cumplimiento de los resultados esperados. 
       .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_1.png', class="img-fluid")
@@ -255,7 +255,7 @@
     .mb-0 
 
     p.mb-4(data-aos="zoom-in-right") La programación consiste en organizar las actividades dentro de un período determinado, estableciendo fechas, responsables y recursos necesarios para su ejecución. Una programación adecuada permite ordenar el trabajo, facilitar la coordinación de actividades y realizar un seguimiento efectivo del cumplimiento de las acciones planificadas. Por su parte la verificación corresponde al proceso mediante el cual se comprueba que las actividades programadas se ejecuten de acuerdo con los tiempos, responsabilidades y procedimientos establecidos.
-    
+
     .titulo-sexto.color-acento-contenido.mb-3
       h5 Figura 3.
       |    Componentes de la programación
