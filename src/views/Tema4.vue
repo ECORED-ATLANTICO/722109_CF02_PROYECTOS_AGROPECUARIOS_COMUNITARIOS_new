@@ -50,9 +50,9 @@
           .row.justify-content-center.align-items-center(titulo="Informe final")
             .col-12.col-lg-12.mb-3.mb-lg-0
               p.mb-0 Consolida los resultados generales, logros, dificultades y conclusiones obtenidas al finalizar un proyecto, programa o proceso organizacional.
-      .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+      .col-12.col-md-10.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
         figure
-          img(src='@/assets/curso/tema4/img_2.png', class="img-fluid")
+          img(src='@/assets/curso/tema3/img_16.png', class="img-fluid")
 
     .subtitulo-destacado.mb-5
       .subtitulo-destacado__icono
@@ -62,37 +62,39 @@
 
     p.mb-5(data-aos="zoom-in-right") Para que un informe cumpla adecuadamente su función de comunicar información y apoyar la toma de decisiones, debe reunir una serie de características que garanticen su calidad y utilidad, como lo son:
 
-    .row.justify-content-center.align-items-center
-      .col-12.col-lg-8.order-2.order-lg-1.mb-0
-        .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
-          SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-0(data-aos="zoom-in-right")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
+        .bg_img_3_2.p-2.p-md-4.p-lg-3.p-xl-5.mb-0
+          SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-3.p-md-4.p-lg-3.p-xl-4.mb-0(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-10.mb-0
-                h5.mb-4 Claridad y precisión
+              .col-12.col-lg-10.mb-0
+                h5.mb-3.mb-lg-2 Claridad y precisión
                 p.mb-0 La información debe presentarse de forma comprensible, concreta y ordenada, evitando ambigüedades o interpretaciones erróneas que puedan afectar la comprensión del contenido y los resultados expuestos.
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-10.mb-0
-                h5.mb-4 Información verificable
+              .col-12.col-lg-10.mb-0
+                h5.mb-3.mb-lg-2 Información verificable
                 p.mb-0 Los datos y resultados incluidos en el informe deben estar sustentados en evidencias, registros o fuentes confiables que permitan comprobar la validez y exactitud de la información presentada.
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-10.mb-0
-                h5.mb-4 Organización lógica
+              .col-12.col-lg-10.mb-0
+                h5.mb-3.mb-lg-2 Organización lógica
                 p.mb-0 El contenido debe seguir una secuencia coherente que facilite la lectura y comprensión de los temas desarrollados, permitiendo identificar fácilmente los aspectos más relevantes del informe.
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-10.mb-0
-                h5.mb-4 Objetividad
+              .col-12.col-lg-10.mb-0
+                h5.mb-3.mb-lg-2 Objetividad
                 p.mb-0 La información debe presentarse de manera imparcial, basada en hechos y evidencias, evitando opiniones personales que puedan afectar la interpretación de los resultados o situaciones analizadas.
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-10.mb-0
-                h5.mb-4 Lenguaje técnico apropiado
+              .col-12.col-lg-10.mb-0
+                h5.mb-3.mb-lg-2 Lenguaje técnico apropiado
                 p.mb-0 El informe debe utilizar términos acordes con el contexto y la temática abordada, favoreciendo una comunicación precisa y adecuada para los destinatarios de la información.
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-10.mb-0
-                h5.mb-4 Soporte documental
+              .col-12.col-lg-10.mb-0
+                h5.mb-3.mb-lg-2 Soporte documental
                 p.mb-0 El informe debe estar respaldado por documentos, registros, fotografías, actas u otras evidencias que sustenten la información presentada y fortalezcan su credibilidad.
-      .col-8.col-lg-4.order-1.order-lg-2.mb-0.mb-lg-0
+                  .col-10.col-lg-4.mb-3.mb-md-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+      .col-10.col-lg-4.mb-3.mb-md-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema4/img_3.png', class="img-fluid")
+
 
     br
 
@@ -224,6 +226,7 @@
           p.mb-0 El ajuste organizacional corresponde al conjunto de acciones orientadas a corregir, fortalecer o mejorar los procesos, procedimientos y actividades desarrolladas dentro de una organización. Su propósito es garantizar que las acciones implementadas respondan adecuadamente a los objetivos establecidos y que las dificultades identificadas durante el seguimiento puedan ser atendidas de manera oportuna.
         p.mb-0(data-aos="zoom-in-right") Para realizar ajustes efectivos es necesario utilizar técnicas que permitan analizar la situación actual de la organización, identificar las causas de los problemas, valorar alternativas de solución y construir estrategias de mejoramiento. Estas técnicas facilitan la participación de los diferentes actores organizacionales, promueven la toma de decisiones basada en evidencias y contribuyen al fortalecimiento de la gestión institucional. A continuación, se presentan algunas de las técnicas más utilizadas en los procesos de ajuste organizacional:
 
+    
     .row.justify-content-center.align-items-center.mb-5 
       .col-12.col-lg-8.order-2.order-lg-1
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")

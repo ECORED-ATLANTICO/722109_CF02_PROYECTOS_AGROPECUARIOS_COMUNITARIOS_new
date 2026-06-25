@@ -44,6 +44,21 @@
     background-position: center
     overflow: hidden 
     pointer-events: none
+    @media (max-width: 1024px)
+      width: 120%
+    @media (max-width: 991px)
+      top: -10px
+      bottom: -10px
+      left: 0px
+      right: 0px
+      width: 100% 
+    @media (max-width: 767px)
+      top: -60px
+      bottom: 0px
+      left: -50px
+      right: 0px
+      width: 180%
+      height: 150% !important
     *
       color: textColor($color-sistema-h)
     &--borde

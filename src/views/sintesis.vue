@@ -10,7 +10,7 @@
         figure
           img(src="@/assets/curso/sintesis.svg", alt="Diagrama del componente formativo “Implementación, seguimiento y mejora del modelo organizacional”, organizado en cuatro ejes temáticos: Implementación del modelo organizacional (concepto, importancia, estrategias, recursos, responsabilidades y factores asociados); Comunicación y socialización de procesos organizacionales (estrategias, técnicas, herramientas, socialización, presentación de información y participación); Seguimiento y verificación de la implementación (seguimiento organizacional, control de actividades, verificación, herramientas y análisis de resultados); y Evaluación, informes y ajuste del modelo organizacional (informes, estructura y normativa, oportunidades de mejora, herramientas de ajuste y acciones de mejoramiento). El esquema representa un proceso continuo de fortalecimiento organizacional en proyectos agropecuarios comunitarios.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/Síntesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto

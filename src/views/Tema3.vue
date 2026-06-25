@@ -87,7 +87,7 @@
       .subtitulo-destacado__fondo
         h4.subtitulo-destacado__texto Características del seguimiento
 
-    .bg_img_1.mb-0
+    .bg_img_1_1.mb-0
 
       .row.justify-content-center.align-items-center.mb-4
         .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
@@ -115,7 +115,7 @@
                 li.d-flex.align-items-baseline.mb-0
                   i.fa-solid.fa-circle.me-3.flex-shrink-0(style="color:#FF8E6B; font-size: 8px; line-height: 1.5;").mb-0
                   span Promueve la transparencia organizacional. 
-        .col-12.col-md-8.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+        .col-12.col-md-10.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema3/img_4.png', class="img-fluid")
 
@@ -152,7 +152,7 @@
     p.mb-4(data-aos="zoom-in-right") Cada uno de los siguientes elementos contribuye a garantizar que las actividades se desarrollen de manera organizada y que exista claridad sobre las responsabilidades, tiempos de ejecución y recursos necesarios para el cumplimiento de las metas propuestas.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1(data-aos="flip-left")
+      .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0.order-2.order-lg-2.order-xl-1(data-aos="flip-left")
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-12 col-lg-6").p-2.rounded-3
             .tarjeta--white.h-100
@@ -175,7 +175,7 @@
               .tarjeta--10.mb-4 
               h5.mb-3.text-center Mecanismos de comunicación
               p.mb-3 Son los medios y herramientas utilizados para compartir información entre los integrantes de la organización, facilitando la coordinación, el seguimiento de actividades y la toma de decisiones.
-      .col-10.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+      .col-10.col-lg-6.col-xl-4.mb-3.mb-lg-0.order-1.order-lg-1.order-xl-1(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_11.png', class="img-fluid")
 
@@ -185,7 +185,7 @@
       .subtitulo-destacado__fondo
         h4.subtitulo-destacado__texto Acciones de control organizacional
 
-    .bg_img_2.mb-0
+    .bg_img_2_1.mb-0
 
       .row.justify-content-center.align-items-center.mb-4
         .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
@@ -294,28 +294,40 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
-        TabsA.color-secundario.mb-3.uno.mb-5
-          .tarjeta.color-secundario-10.p-5(titulo="Cronogramas")
-            h5.mb-4 Cronogramas
-            p.mb-0 Permiten programar y controlar las actividades previstas, facilitando el seguimiento de los tiempos de ejecución y el cumplimiento de las tareas establecidas.
-          .tarjeta.color-secundario-10.p-5(titulo="Listas de verificación")
-            h5.mb-4 Listas de verificación
-            p.mb-0 Facilitan la comprobación sistemática de actividades, requisitos o procedimientos, permitiendo identificar avances, pendientes y aspectos que requieren atención.
-          .tarjeta.color-secundario-10.p-5(titulo="Informes de avance")
-            h5.mb-4 Informes de avance
-            p.mb-0 Se utilizan para registrar y comunicar el progreso de las actividades, los resultados obtenidos y las situaciones que afectan el desarrollo de los procesos.
-          .tarjeta.color-secundario-10.p-5(titulo="Actas de reunión")
-            h5.mb-4 Actas de reunión
-            p.mb-0 Permiten documentar acuerdos, compromisos, decisiones y responsabilidades asumidas durante reuniones relacionadas con la gestión y seguimiento organizacional.
-          .tarjeta.color-secundario-10.p-5(titulo="Indicadores de gestión")
-            h5.mb-4 Indicadores de gestión
-            p.mb-0 Facilitan la medición y evaluación del desempeño organizacional mediante datos que permiten analizar el cumplimiento de metas y objetivos establecidos.
-          .tarjeta.color-secundario-10.p-5(titulo="Matrices de seguimiento")
-            h5.mb-4 Matrices de seguimiento
-            p.mb-0 Organizan información relacionada con actividades, responsables, recursos y avances, facilitando el control y la evaluación de los procesos organizacionales.
-      .col-10.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
+        .bg_img_3_1.p-2.p-md-4.p-lg-4.p-xl-5.mb-0
+          SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-3.p-md-4.p-lg-2.p-xl-5.mb-0(data-aos="zoom-in-right")
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.mb-0
+                h5.mb-4 Cronogramas
+                p.mb-0 Permiten programar y controlar las actividades previstas, facilitando el seguimiento de los tiempos de ejecución y el cumplimiento de las tareas establecidas.
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.mb-0
+                h5.mb-4 Listas de verificación
+                p.mb-0 Facilitan la comprobación sistemática de actividades, requisitos o procedimientos, permitiendo identificar avances, pendientes y aspectos que requieren atención.
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.mb-0
+                h5.mb-4 Informes de avance
+                p.mb-0 Se utilizan para registrar y comunicar el progreso de las actividades, los resultados obtenidos y las situaciones que afectan el desarrollo de los procesos.
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.mb-0
+                h5.mb-4 Actas de reunión
+                p.mb-0 Permiten documentar acuerdos, compromisos, decisiones y responsabilidades asumidas durante reuniones relacionadas con la gestión y seguimiento organizacional.
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.mb-0
+                h5.mb-4 Indicadores de gestión
+                p.mb-0 Facilitan la medición y evaluación del desempeño organizacional mediante datos que permiten analizar el cumplimiento de metas y objetivos establecidos.
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.mb-0
+                h5.mb-4 Matrices de seguimiento
+                p.mb-0 Propone acciones preventivas, correctivas o de mejora orientadas a fortalecer los procesos y optimizar futuros resultados organizacionales.
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.mb-0
+                h5.mb-4 Presentación de conclusiones
+                p.mb-0 Organizan información relacionada con actividades, responsables, recursos y avances, facilitando el control y la evaluación de los procesos organizacionales.
+      .col-10.col-lg-4.mb-3.mb-md-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_16.png', class="img-fluid")
+
 
     .cajon.color-acento-contenido.p-4.mb-4(data-aos="zoom-in-right")
       p.mb-0 La matriz de seguimiento es una herramienta que permite monitorear de manera organizada el avance de las acciones definidas en un plan de mejoramiento. A través de ella, es posible registrar actividades, responsables, tiempos de ejecución y resultados alcanzados, facilitando el control, la toma de decisiones y la verificación del cumplimiento de los objetivos establecidos.
@@ -360,56 +372,56 @@
 
     p.mb-4(data-aos="zoom-in-right") Las diferentes etapas para el análisis de resultados y su importancia son:
 
-    .bg_img_3.mb-0
+    .bg_img_3.p-2.p-md-3.p-lg-4.p-xl-5.mb-0
 
-      SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-0(data-aos="zoom-in-right")
+      SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-3.p-md-3.p-lg-4.p-xl-5.mb-0(data-aos="zoom-in-right")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-4 Recolección de información
             p.mb-0 Permite obtener datos, evidencias y registros sobre el desarrollo de las actividades, constituyéndose en la base para realizar un análisis objetivo y fundamentado.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
+          .col-12.col-lg-5.order-1.order-lg-2.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/img_18.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-4 Organización y consolidación de datos
             p.mb-0 Ayuda la clasificación, depuración y estructuración de la información recopilada, permitiendo su consulta e interpretación de manera ordenada y eficiente.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
+          .col-12.col-lg-5.order-1.order-lg-2.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/img_19.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-4 Comparación entre lo programado y lo ejecutado
             p.mb-0 Verifica el nivel de cumplimiento de las actividades, metas y cronogramas establecidos, identificando diferencias entre la planificación y los resultados obtenidos.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
+          .col-12.col-lg-5.order-1.order-lg-2.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/img_20.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-4 Identificación de logros y dificultades
             p.mb-0 Contribuye a reconocer los aspectos positivos alcanzados y las situaciones que han limitado el desarrollo de los procesos, generando información para el aprendizaje organizacional.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
+          .col-12.col-lg-5.order-1.order-lg-2.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/img_21.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-4 Interpretación de resultados
             p.mb-0 Analiza las causas, efectos y factores que influyeron en los resultados obtenidos, permitiendo comprender el desempeño de las actividades ejecutadas.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
+          .col-12.col-lg-5.order-1.order-lg-2.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/img_22.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-4 Formulación de recomendaciones
             p.mb-0 Propone acciones preventivas, correctivas o de mejora orientadas a fortalecer los procesos y optimizar futuros resultados organizacionales.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
+          .col-12.col-lg-5.order-1.order-lg-2.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/img_23.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-4 Presentación de conclusiones
             p.mb-0 Facilita la comunicación de los hallazgos más relevantes, apoyando la toma de decisiones y la socialización de los resultados con los diferentes grupos de interés.
-          .col-12.col-lg-5.order-1.order-lg-2.mb-0.mb-lg-0
+          .col-12.col-lg-5.order-1.order-lg-2.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/img_24.png', class="img-fluid")
 </template>

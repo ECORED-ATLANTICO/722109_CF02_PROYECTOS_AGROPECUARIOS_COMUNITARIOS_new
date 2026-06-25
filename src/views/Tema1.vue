@@ -121,7 +121,7 @@
           p.mb-0 En las organizaciones rurales y comunitarias, la disponibilidad de recursos influye directamente en la capacidad para desarrollar proyectos, prestar servicios, gestionar iniciativas y promover la participación de sus integrantes. Por esta razón, es fundamental realizar una valoración periódica de los recursos existentes, identificar necesidades adicionales y establecer mecanismos que permitan su adecuada utilización, control y seguimiento durante la implementación de las actividades. La implementación de cualquier proceso organizacional requiere la disponibilidad y adecuada administración de diferentes tipos de recursos, entre lo más comunes tenemos:
     
     TabsA.color-secundario.mb-3.uno.mb-5
-      .tarjeta.color-secundario-10.p-5(titulo="Humanos")
+      .tarjeta.color-secundario-5.p-5(titulo="Humanos")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
             h5.mb-4 Humanos
@@ -129,7 +129,7 @@
           .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
             figure
               img(src='@/assets/curso/tema1/img_11.png', class="img-fluid")
-      .tarjeta.color-secundario-10.p-5(titulo="Financieros")
+      .tarjeta.color-secundario-5.p-5(titulo="Financieros")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-11
             h5.mb-4 Financieros
@@ -137,7 +137,7 @@
           .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
             figure
               img(src='@/assets/curso/tema1/img_12.png', class="img-fluid")
-      .tarjeta.color-secundario-10.p-5(titulo="Materiales")
+      .tarjeta.color-secundario-5.p-5(titulo="Materiales")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-11
             h5.mb-4 Materiales
@@ -145,7 +145,7 @@
           .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
             figure
               img(src='@/assets/curso/tema1/img_13.png', class="img-fluid")
-      .tarjeta.color-secundario-10.p-5(titulo="Tecnológicos")
+      .tarjeta.color-secundario-5.p-5(titulo="Tecnológicos")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-11
             h5.mb-4 Tecnológicos
@@ -153,7 +153,7 @@
           .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
             figure
               img(src='@/assets/curso/tema1/img_14.png', class="img-fluid")
-      .tarjeta.color-secundario-10.p-5(titulo="Institucionales")
+      .tarjeta.color-secundario-5.p-5(titulo="Institucionales")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-11
             h5.mb-4 Institucionales

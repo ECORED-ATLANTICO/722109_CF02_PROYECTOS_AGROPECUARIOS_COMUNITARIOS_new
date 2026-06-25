@@ -57,10 +57,10 @@
     p.mb-4(data-aos="zoom-in-right") Entre las características de las estrategias de comunicación, tenemos:
 
     .row.justify-content-center.align-items-center.mb-5 
-      .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-out-up")
+      .col-10.col-lg-6.col-xl-4.mb-3.mb-lg-3(data-aos="zoom-out-up")
         figure
           img(src='@/assets/curso/tema2/img_4.png', class="img-fluid")
-      .col-12.col-lg-8
+      .col-12.col-lg-12.col-xl-8
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-12 col-lg-6").p-2.rounded-3
             .tarjeta-img-titulo
@@ -148,10 +148,10 @@
     p.mb-4(data-aos="zoom-in-right") Las técnicas de comunicación corresponden a los métodos utilizados para facilitar el intercambio de información entre las personas y promover una comprensión adecuada de los mensajes. Su aplicación permite mejorar la interacción entre los integrantes de la organización y fortalecer los procesos de coordinación y participación. A continuación, se muestran las más importantes:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-10.col-lg-6.col-xl-4.mb-3.mb-lg-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_14.png', class="img-fluid")
-      .col-12.col-lg-8.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0(data-aos="flip-left")
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-12 col-lg-6").p-2.rounded-3
             .tarjeta--white.h-100
@@ -517,10 +517,10 @@
     p.mb-5(data-aos="zoom-in-right") La participación es un elemento fundamental para garantizar el éxito de los procesos organizacionales. Durante la implementación de actividades es necesario promover mecanismos que faciliten la intervención activa de los diferentes actores involucrados. La gestión de la participación comprende las acciones orientadas a motivar, coordinar y fortalecer el compromiso de las personas con el desarrollo de las actividades organizacionales. Entre los principios de participación tememos:
 
     .row.justify-content-center.align-items-center.mb-5 
-      .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-out-up")
+      .col-8.col-lg-6.col-xl-4.mb-3.mb-lg-3(data-aos="zoom-out-up")
         figure
           img(src='@/assets/curso/tema2/img_31.png', class="img-fluid")
-      .col-12.col-lg-8
+      .col-12.col-lg-12.col-xl-8
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-12 col-lg-6").p-2.rounded-3
             .tarjeta-img-titulo
