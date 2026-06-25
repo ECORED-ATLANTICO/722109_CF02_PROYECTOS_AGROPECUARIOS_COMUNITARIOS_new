@@ -268,8 +268,8 @@
       h5 Figura 3.
       |    Componentes de la programación
     figure(data-aos="flip-left").mb-5
-      img(src='@/assets/curso/tema3/img_14.svg', class="img-fluid d-none d-lg-block").mb-3
-      img(src='@/assets/curso/tema3/img_15.svg', class="img-fluid d-block d-lg-none").mb-3
+      img(src='@/assets/curso/tema3/img_14.svg', class="img-fluid d-none d-lg-block", alt="La figura describe de manera secuencial los elementos necesarios para planificar y gestionar una actividad. El esquema muestra la relación entre la definición de tareas, la asignación de responsabilidades, la organización de tiempos, la disponibilidad de recursos y el seguimiento de resultados. También destaca cómo estos componentes se integran para facilitar una ejecución ordenada y el cumplimiento de los objetivos propuestos. ").mb-3
+      img(src='@/assets/curso/tema3/img_15.svg', class="img-fluid d-block d-lg-none", alt="La figura describe de manera secuencial los elementos necesarios para planificar y gestionar una actividad. El esquema muestra la relación entre la definición de tareas, la asignación de responsabilidades, la organización de tiempos, la disponibilidad de recursos y el seguimiento de resultados. También destaca cómo estos componentes se integran para facilitar una ejecución ordenada y el cumplimiento de los objetivos propuestos. ").mb-3
       figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-right")

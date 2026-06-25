@@ -110,8 +110,8 @@
       h5 Figura 1.
       |    Elementos de la comunicación.
     figure(data-aos="flip-left").mb-5
-      img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block").mb-3
-      img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none").mb-3
+      img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura describe los Elementos de la comunicación ambientada en un entorno agropecuario. Una productora agrícola y un productor pecuario intercambian información mediante un esquema que explica los elementos de la comunicación, los cuales son: emisor, código, mensaje, canal, receptor y referente.").mb-3
+      img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura describe los Elementos de la comunicación ambientada en un entorno agropecuario. Una productora agrícola y un productor pecuario intercambian información mediante un esquema que explica los elementos de la comunicación, los cuales son: emisor, código, mensaje, canal, receptor y referente.").mb-3
       figcaption Nota. SENA, (2026)
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-right")
@@ -451,8 +451,8 @@
       h5 Figura 2.
       |    Aspectos a considerar en una presentación de información
     figure(data-aos="flip-left").mb-5
-      img(src='@/assets/curso/tema2/img_26.svg', class="img-fluid d-none d-lg-block").mb-3
-      img(src='@/assets/curso/tema2/img_27.svg', class="img-fluid d-block d-lg-none").mb-3
+      img(src='@/assets/curso/tema2/img_26.svg', class="img-fluid d-none d-lg-block", alt="La figura describe en forma de secuencia, diversos aspectos que deben considerarse al momento de realizar una presentación de información.  Entre los aspectos abordados se encuentran la definición del propósito, el conocimiento de la audiencia, la organización de la información, el uso de recursos de apoyo, la presentación de evidencias y la gestión del tiempo. La ilustración utiliza un contexto rural para resaltar la importancia de una comunicación clara, organizada y efectiva.").mb-3
+      img(src='@/assets/curso/tema2/img_27.svg', class="img-fluid d-block d-lg-none", alt="La figura describe en forma de secuencia, diversos aspectos que deben considerarse al momento de realizar una presentación de información.  Entre los aspectos abordados se encuentran la definición del propósito, el conocimiento de la audiencia, la organización de la información, el uso de recursos de apoyo, la presentación de evidencias y la gestión del tiempo. La ilustración utiliza un contexto rural para resaltar la importancia de una comunicación clara, organizada y efectiva.").mb-3
       figcaption Nota. SENA, (2026)
     
     p.mb-4(data-aos="zoom-in-right") Además de estos aspectos, es recomendable prever espacios para preguntas, comentarios y retroalimentación, permitiendo que los participantes expresen sus opiniones y aporten sugerencias que contribuyan al fortalecimiento de los procesos organizacionales.

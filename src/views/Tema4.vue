@@ -121,8 +121,8 @@
       h5 Figura 4.
       |    Estructura de un informe
     figure(data-aos="flip-left").mb-5
-      img(src='@/assets/curso/tema4/img_4.svg', class="img-fluid d-none d-lg-block").mb-3
-      img(src='@/assets/curso/tema4/img_5.svg', class="img-fluid d-block d-lg-none").mb-3
+      img(src='@/assets/curso/tema4/img_4.svg', class="img-fluid d-none d-lg-block", alt="La figura describe las principales secciones que conforman un informe. La secuencia incluye la identificación del documento, la contextualización del tema, la definición de propósitos, la descripción de actividades, el análisis de resultados, las conclusiones, las recomendaciones y los anexos.").mb-3
+      img(src='@/assets/curso/tema4/img_5.svg', class="img-fluid d-block d-lg-none", alt="La figura describe las principales secciones que conforman un informe. La secuencia incluye la identificación del documento, la contextualización del tema, la definición de propósitos, la descripción de actividades, el análisis de resultados, las conclusiones, las recomendaciones y los anexos.").mb-3
       figcaption Nota. SENA, (2026).
 
     p.mb-5(data-aos="zoom-in-right") Aunque la estructura de un informe puede variar según la naturaleza de la organización, el tipo de actividad desarrollada o los requerimientos institucionales, existen algunos componentes básicos que contribuyen a garantizar la calidad y utilidad del documento.
