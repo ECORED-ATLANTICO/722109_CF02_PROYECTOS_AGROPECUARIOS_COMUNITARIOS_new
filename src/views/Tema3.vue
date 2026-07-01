@@ -61,19 +61,19 @@
             th.col-auto.col-lg-auto Ejemplo en proyectos agropecuarios comunitarios
         tbody
           tr
-            td Control de actividades
+            td.text-start Control de actividades
             td.text-start Permite verificar el cumplimiento de las acciones programadas, identificar retrasos o dificultades y garantizar que las actividades se desarrollen conforme a la planificación establecida.
             td.text-start Seguimiento al cronograma de siembra y cosecha
           tr.bg-table-01
-            td Toma de decisiones
+            td.text-start Toma de decisiones
             td.text-start Facilita la identificación de situaciones que requieren ajustes, proporcionando información confiable para implementar acciones correctivas y mejorar el desarrollo de los procesos organizacionales.
             td.text-start Reprogramar actividades afectadas por condiciones climáticas.
           tr
-            td Uso eficiente de recursos
+            td.text-start Uso eficiente de recursos
             td.text-start Contribuye a optimizar el aprovechamiento de los recursos humanos, técnicos, materiales y financieros, evitando desperdicios y fortaleciendo la sostenibilidad de las actividades organizacionales.
             td.text-start Control del uso de insumos agrícolas.
           tr.bg-table-01
-            td Cumplimiento de objetivos
+            td.text-start Cumplimiento de objetivos
             td.text-start Permite identificar el nivel de avance de las metas establecidas, evaluar resultados obtenidos y determinar si las acciones ejecutadas contribuyen al logro de los propósitos organizacionales.
             td.text-start Evaluación del aumento en la producción agrícola proyectada.
           tr

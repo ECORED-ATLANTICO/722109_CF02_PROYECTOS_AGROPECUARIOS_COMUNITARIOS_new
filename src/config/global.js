@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Implementación, seguimiento y mejora del modelo organizacional',
     Description:
-      'BREVE DESCRIPCIÓN	El componente formativo busca fortalecer las capacidades para implementar, verificar y mejorar procesos organizacionales en organizaciones rurales y comunitarias. Para ello, aborda conceptos, herramientas y metodologías relacionadas con la gestión organizacional, la coordinación de actividades, la administración de recursos y el fortalecimiento institucional. Asimismo, promueve habilidades para la comunicación efectiva, la socialización de procesos y la presentación de información, favoreciendo la participación, el trabajo colaborativo y la articulación entre los diferentes actores involucrados en los proyectos agropecuarios comunitarios.',
+      'El componente formativo busca fortalecer las capacidades para implementar, verificar y mejorar procesos organizacionales en organizaciones rurales y comunitarias. Para ello, aborda conceptos, herramientas y metodologías relacionadas con la gestión organizacional, la coordinación de actividades, la administración de recursos y el fortalecimiento institucional. Asimismo, promueve habilidades para la comunicación efectiva, la socialización de procesos y la presentación de información, favoreciendo la participación, el trabajo colaborativo y la articulación entre los diferentes actores involucrados en los proyectos agropecuarios comunitarios.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },

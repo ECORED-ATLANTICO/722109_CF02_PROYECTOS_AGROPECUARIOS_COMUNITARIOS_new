@@ -200,31 +200,31 @@
             th.col-auto.col-lg-auto Ejemplo en proyectos agropecuarios comunitarios
         tbody
           tr
-            td Reuniones de trabajo
+            td.text-start Reuniones de trabajo
             td.text-start Espacios de encuentro donde los integrantes intercambian información, coordinan actividades y toman decisiones relacionadas con la organización.
             td.text-start Reunión de productores para planificar las actividades de siembra y cosecha.
           tr.bg-table-01
-            td Actas
+            td.text-start Actas
             td.text-start Documentos que registran acuerdos, decisiones y compromisos adquiridos durante reuniones o eventos organizacionales.
             td.text-start Acta de una asamblea donde se aprueba la compra de insumos agrícolas.
           tr
-            td Informes
+            td.text-start Informes
             td.text-start Documentos que presentan resultados, avances o situaciones específicas para apoyar el seguimiento y la toma de decisiones.
             td.text-start Informe sobre el avance de un proyecto de producción hortícola comunitaria.
           tr.bg-table-01
-            td Carteleras informativas
+            td.text-start Carteleras informativas
             td.text-start Medios visuales utilizados para divulgar información relevante de interés para los integrantes de la organización.
             td.text-start Cartelera con el cronograma de actividades productivas y jornadas de capacitación.
           tr
-            td Correo electrónico
+            td.text-start Correo electrónico
             td.text-start Herramienta digital que permite enviar y recibir información de manera formal y organizada entre diferentes actores.
             td.text-start Envío de informes técnicos a entidades que apoyan el proyecto agropecuario.
           tr.bg-table-01
-            td Aplicaciones de mensajería
+            td.text-start Aplicaciones de mensajería
             td.text-start Plataformas que facilitan la comunicación inmediata mediante mensajes, archivos y contenidos multimedia.
             td.text-start Grupo de WhatsApp para coordinar actividades entre los asociados de una cooperativa agrícola.
           tr
-            td Plataformas virtuales
+            td.text-start Plataformas virtuales
             td.text-start Espacios digitales que permiten compartir información, gestionar actividades y fortalecer el trabajo colaborativo.
             td.text-start Plataforma utilizada para realizar capacitaciones sobre buenas prácticas agropecuarias.
 
@@ -416,23 +416,23 @@
             th.col-auto.col-lg-auto Relación con la organización
         tbody
           tr
-            td Asociados o miembros
+            td.text-start Asociados o miembros
             td.text-start Personas que integran la organización y participan en el desarrollo de sus actividades, decisiones y proyectos.
             td.text-start Participan directamente en las actividades organizacionales.
           tr.bg-table-01
-            td Comunidad beneficiaria
+            td.text-start Comunidad beneficiaria
             td.text-start Grupo de personas que recibe beneficios directos o indirectos derivados de las acciones y proyectos desarrollados por la organización.
             td.text-start Recibe los beneficios de las acciones desarrolladas.
           tr
-            td Entidades públicas
+            td.text-start Entidades públicas
             td.text-start Instituciones gubernamentales que regulan, apoyan o acompañan la ejecución de programas y proyectos de interés comunitario.
             td.text-start Apoyan o regulan los procesos organizacionales.
           tr.bg-table-01
-            td Organizaciones aliadas
+            td.text-start Organizaciones aliadas
             td.text-start Entidades que establecen relaciones de cooperación para fortalecer capacidades, recursos y acciones orientadas al logro de objetivos comunes
             td.text-start Contribuyen al desarrollo de actividades conjuntas.
           tr
-            td Financiadores
+            td.text-start Financiadores
             td.text-start Personas o entidades que aportan recursos económicos para apoyar la ejecución y sostenibilidad de proyectos y actividades organizacionales.
             td.text-start Apoyan económicamente proyectos o iniciativas.
 

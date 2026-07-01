@@ -52,7 +52,7 @@
               p.mb-0 Consolida los resultados generales, logros, dificultades y conclusiones obtenidas al finalizar un proyecto, programa o proceso organizacional.
       .col-12.col-md-10.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
         figure
-          img(src='@/assets/curso/tema3/img_16.png', class="img-fluid")
+          img(src='@/assets/curso/tema4/img_2.png', class="img-fluid")
 
     .subtitulo-destacado.mb-5
       .subtitulo-destacado__icono
@@ -181,23 +181,23 @@
             th.col-auto.col-lg-auto Ejemplo
         tbody
           tr
-            td Seguimiento de actividades
+            td.text-start Seguimiento de actividades
             td.text-start Consiste en la revisión periódica de las tareas ejecutadas para verificar su avance e identificar oportunidades de mejora.
             td.text-start Se detecta un retraso en el cronograma y se realizan ajustes.
           tr.bg-table-01
-            td Evaluación de resultados
+            td.text-start Evaluación de resultados
             td.text-start Permite comparar los resultados obtenidos con los objetivos propuestos para identificar fortalezas y aspectos por mejorar.
             td.text-start Se evidencia que no se alcanzó la meta de aprendizaje esperada.
           tr
-            td Opinión de los participantes
+            td.text-start Opinión de los participantes
             td.text-start Recoge percepciones, sugerencias y niveles de satisfacción de quienes participan en las actividades.
             td.text-start Los participantes solicitan ampliar el tiempo de las actividades.
           tr.bg-table-01
-            td Informes organizacionales
+            td.text-start Informes organizacionales
             td.text-start Documentan la ejecución y los resultados de los procesos, facilitando el análisis y la toma de decisiones.
             td.text-start El informe muestra incumplimientos en algunas actividades programadas.
           tr
-            td Indicadores de gestión
+            td.text-start Indicadores de gestión
             td.text-start Miden el desempeño de procesos o actividades para apoyar la mejora continua.
             td.text-start La asistencia registrada es inferior a la meta establecida.
 
@@ -286,23 +286,23 @@
             th.col-auto.col-lg-auto Ejemplo
         tbody
           tr
-            td Matriz DOFA
+            td.text-start Matriz DOFA
             td.text-start Permite analizar las condiciones internas y externas de la organización para identificar fortalezas, debilidades, oportunidades y amenazas que apoyen la toma de decisiones.
             td.text-start Identificar como fortaleza la experiencia de los asociados y como amenaza la disminución de recursos financieros.
           tr.bg-table-01
-            td Árbol de problemas
+            td.text-start Árbol de problemas
             td.text-start Facilita la identificación de las causas y consecuencias de una situación problemática, contribuyendo a definir acciones de mejora más efectivas.
             td.text-start Analizar las causas y efectos de la baja participación de los asociados en las reuniones.
           tr
-            td Planes de mejoramiento
+            td.text-start Planes de mejoramiento
             td.text-start Organizan las acciones necesarias para corregir debilidades, fortalecer procesos y alcanzar los objetivos propuestos.
             td.text-start Establecer actividades de capacitación para mejorar la gestión administrativa.
           tr.bg-table-01
-            td Indicadores de gestión
+            td.text-start Indicadores de gestión
             td.text-start Permiten medir el desempeño de procesos, actividades o proyectos para evaluar resultados y orientar la mejora continua.
             td.text-start Medir el porcentaje de cumplimiento de las actividades programadas durante el año.
           tr
-            td Matrices de seguimiento
+            td.text-start Matrices de seguimiento
             td.text-start Facilitan el control y monitoreo de las acciones implementadas, verificando avances, responsables y cumplimiento de metas.
             td.text-start Registrar el avance mensual de las actividades definidas en un plan de mejoramiento.
 
@@ -329,19 +329,19 @@
             th.col-auto.col-lg-auto Características
         tbody
           tr
-            td Acciones correctivas
+            td.text-start Acciones correctivas
             td.text-start Eliminar las causas de problemas o situaciones ya identificadas.
             td.text-start Se implementan cuando existe una desviación, incumplimiento o dificultad que afecta los resultados. Permiten corregir errores y evitar que vuelvan a presentarse.
           tr.bg-table-01
-            td Acciones preventivas
+            td.text-start Acciones preventivas
             td.text-start Evitar la ocurrencia de situaciones no deseadas.
             td.text-start Permiten anticiparse a posibles riesgos, dificultades o fallas potenciales. Contribuyen a fortalecer la planificación y la gestión organizacional.
           tr
-            td Acciones de fortalecimiento
+            td.text-start Acciones de fortalecimiento
             td.text-start Incrementar las capacidades institucionales y organizacionales.
             td.text-start Mejoran el desempeño de los procesos, los equipos de trabajo y los mecanismos de gestión. Favorecen el crecimiento, la sostenibilidad y la consolidación de la organización.
           tr.bg-table-01
-            td Acciones de innovación
+            td.text-start Acciones de innovación
             td.text-start Incorporar nuevas prácticas, metodologías, tecnologías o herramientas.
             td.text-start Promueven la modernización de los procesos organizacionales, estimulan la creatividad y facilitan la adaptación a nuevas necesidades y condiciones del entorno.
 

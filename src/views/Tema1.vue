@@ -123,42 +123,42 @@
     TabsA.color-secundario.mb-3.uno.mb-5
       .tarjeta.color-secundario-5.p-5(titulo="Humanos")
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
+          .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0.order-2.order-lg-2.odrer-xl-1
             h5.mb-4 Humanos
             p.mb-0 Corresponden a las personas que participan en la ejecución de las actividades organizacionales. Incluyen directivos, asociados, trabajadores, técnicos y demás colaboradores que aportan conocimientos, habilidades y experiencia para el cumplimiento de los objetivos, garantizando el adecuado funcionamiento y desarrollo de la organización.
-          .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
+          .col-12.col-lg-6.col-xl-4.mb-3.mb-lg-0.order-1.order-lg-1.order-xl-2
             figure
               img(src='@/assets/curso/tema1/img_11.png', class="img-fluid")
       .tarjeta.color-secundario-5.p-5(titulo="Financieros")
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-11
+          .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0.order-2.order-lg-2.odrer-xl-1
             h5.mb-4 Financieros
             p.mb-0 Comprenden los fondos económicos que permiten financiar las actividades, proyectos y operaciones de la organización. Incluyen ingresos, ahorros, créditos, aportes de los asociados y otras fuentes de financiación necesarias para cubrir costos, realizar inversiones y asegurar la sostenibilidad institucional.
-          .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
+          .col-12.col-lg-6.col-xl-4.mb-3.mb-lg-0.order-1.order-lg-1.order-xl-2
             figure
               img(src='@/assets/curso/tema1/img_12.png', class="img-fluid")
       .tarjeta.color-secundario-5.p-5(titulo="Materiales")
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-11
+          .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0.order-2.order-lg-2.odrer-xl-1
             h5.mb-4 Materiales
             p.mb-0 Son los bienes físicos requeridos para el desarrollo de las actividades organizacionales y productivas. Incluyen infraestructura, maquinaria, equipos, herramientas, insumos y suministros que facilitan la ejecución de los procesos y contribuyen al cumplimiento eficiente de los objetivos establecidos por la organización.
-          .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
+          .col-12.col-lg-6.col-xl-4.mb-3.mb-lg-0.order-1.order-lg-1.order-xl-2
             figure
               img(src='@/assets/curso/tema1/img_13.png', class="img-fluid")
       .tarjeta.color-secundario-5.p-5(titulo="Tecnológicos")
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-11
+          .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0.order-2.order-lg-2.odrer-xl-1
             h5.mb-4 Tecnológicos
             p.mb-0 Son las diferentes herramientas, equipos y sistemas tecnológicos que apoyan la gestión organizacional. Incluyen software, hardware, plataformas digitales, sistemas de información y medios de comunicación que facilitan el acceso a datos, mejoran los procesos y fortalecen la toma de decisiones.
-          .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
+          .col-12.col-lg-6.col-xl-4.mb-3.mb-lg-0.order-1.order-lg-1.order-xl-2
             figure
               img(src='@/assets/curso/tema1/img_14.png', class="img-fluid")
       .tarjeta.color-secundario-5.p-5(titulo="Institucionales")
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-11
+          .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0.order-2.order-lg-2.odrer-xl-1
             h5.mb-4 Institucionales
             p.mb-0 Hacen parte las políticas, normas, procedimientos, alianzas y mecanismos de gestión que respaldan el funcionamiento de la organización. Estos recursos fortalecen la estructura organizacional, facilitan la coordinación de actividades y promueven el cumplimiento de los objetivos, la transparencia y la mejora continua.
-          .col-12.col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
+          .col-12.col-lg-6.col-xl-4.mb-3.mb-lg-0.order-1.order-lg-1.order-xl-2
             figure
               img(src='@/assets/curso/tema1/img_15.png', class="img-fluid")
 
@@ -237,23 +237,23 @@
                 th.col-auto.col-lg-auto Ejemplo
             tbody
               tr
-                td Liderazgo efectivo
+                td.text-start Liderazgo efectivo
                 td.text-start Orienta las acciones de la organización, facilita la toma de decisiones, promueve el compromiso de los integrantes y fortalece el cumplimiento de los objetivos institucionales.
                 td.text-start El representante de una asociación cafetera coordina las actividades de producción y comercialización.
               tr.bg-table-01
-                td Comunicación adecuada
+                td.text-start Comunicación adecuada
                 td.text-start Una comunicación clara y oportuna facilita la transmisión de información, mejora la coordinación de actividades, reduce errores y fortalece las relaciones entre los miembros de la organización.
                 td.text-start Los integrantes de una asociación agrícola realizan reuniones semanales para informar avances del cultivo.
               tr
-                td Participación
+                td.text-start Participación
                 td.text-start La participación de los integrantes fortalece el sentido de pertenencia, favorece la toma de decisiones colectivas y contribuye al logro de los objetivos organizacionales.
                 td.text-start La comunidad propone estrategias para mejorar la comercialización de sus productos agropecuarios.
               tr.bg-table-01
-                td Disponibilidad de recursos
+                td.text-start Disponibilidad de recursos
                 td.text-start Contar con recursos suficientes permite desarrollar las actividades planificadas, garantizar la continuidad de los procesos y facilitar el cumplimiento de las metas organizacionales.
                 td.text-start La asociación cuenta con recursos económicos para realizar capacitaciones técnicas a los productores.
               tr
-                td Planeación adecuada
+                td.text-start Planeación adecuada
                 td.text-start Permite organizar actividades, definir responsabilidades, establecer tiempos de ejecución y optimizar recursos para alcanzar los resultados esperados.
                 td.text-start La organización elabora un cronograma para las labores de siembra, mantenimiento y cosecha.
 
@@ -283,23 +283,23 @@
                 th.col-auto.col-lg-auto Ejemplo
             tbody
               tr
-                td Escasez de recursos
+                td.text-start Escasez de recursos
                 td.text-start La insuficiencia de recursos humanos, financieros, materiales o tecnológicos dificulta la ejecución de las actividades planificadas, limita el alcance de los proyectos y afecta el cumplimiento de los objetivos organizacionales.
                 td.text-start Una asociación de productores no cuenta con recursos suficientes para adquirir insumos agrícolas.
               tr.bg-table-01
-                td Falta de coordinación
+                td.text-start Falta de coordinación
                 td.text-start La ausencia de una adecuada articulación entre los integrantes de la organización genera retrasos, duplicidad de esfuerzos y dificultades en la ejecución de las actividades necesarias para el proyecto.
                 td.text-start Se programan jornadas de trabajo sin informar a todos los miembros de la organización.
               tr
-                td Resistencia al cambio
+                td.text-start Resistencia al cambio
                 td.text-start La falta de disposición para adoptar nuevas prácticas, tecnologías o formas de trabajo puede limitar la implementación de mejoras y afectar el desarrollo de los procesos organizacionales.
                 td.text-start Algunos productores se niegan a implementar técnicas agrícolas recomendadas por los asistentes técnicos.
               tr.bg-table-01
-                td Comunicación deficiente
+                td.text-start Comunicación deficiente
                 td.text-start La transmisión inadecuada o insuficiente de información puede generar confusiones, errores en la ejecución de actividades y dificultades para coordinar acciones entre los miembros de la organización.
                 td.text-start Los cambios en el cronograma de siembra no son comunicados oportunamente a los productores.
               tr
-                td Baja participación
+                td.text-start Baja participación
                 td.text-start La escasa participación de los integrantes reduce el compromiso con los objetivos organizacionales, limita la toma de decisiones colectivas y dificulta el desarrollo efectivo de las actividades programadas.
                 td.text-start Pocos asociados asisten a las reuniones de planificación del proyecto productivo.
 

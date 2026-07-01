@@ -28,609 +28,537 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto:
-            '¿Cuál es uno de los propósitos principales del desarrollo rural?',
+          texto: '¿Qué se entiende por implementación organizacional?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Incrementar únicamente la producción agrícola.',
+              texto: 'La elaboración de diagnósticos comunitarios.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Mejorar las condiciones económicas, sociales y ambientales de las comunidades rurales.',
+                'La ejecución de actividades y estrategias previamente planificadas.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto:
-                'Sustituir las organizaciones comunitarias por entidades privadas.',
+              texto: 'La creación de normas jurídicas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Limitar la participación de los productores rurales.',
+              texto: 'La elaboración de informes financieros.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 2,
-          texto: 'La asociatividad rural se caracteriza por:',
+          texto:
+            '¿Cuál es uno de los principales objetivos de la implementación de un modelo organizacional?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La competencia entre productores de una misma región.',
+              texto: 'Incrementar la burocracia institucional.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La eliminación de los procesos comunitarios.',
-              esCorrecta: false,
+              texto:
+                'Garantizar la ejecución de las acciones planificadas para alcanzar los objetivos organizacionales.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'La dependencia exclusiva de recursos externos.',
+              texto: 'Eliminar la participación comunitaria.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'La organización colectiva para alcanzar objetivos comunes.',
-              esCorrecta: true,
+              texto: 'Sustituir la planeación estratégica.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 3,
           texto:
-            'La Agricultura Campesina, Familiar y Comunitaria (ACFC) reconoce:',
+            '¿Cuál de los siguientes elementos es un recurso necesario para la implementación?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto:
-                'La producción industrial como único modelo de desarrollo.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto:
-                'El papel de las familias rurales en la producción de alimentos y el desarrollo territorial.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto:
-                'La sustitución de los saberes tradicionales por tecnología externa.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'La reducción de la participación comunitaria.',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Recursos humanos.', esCorrecta: true },
+            { id: 'b', texto: 'Rumores organizacionales.', esCorrecta: false },
+            { id: 'c', texto: 'Opiniones informales.', esCorrecta: false },
+            { id: 'd', texto: 'Costumbres familiares.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 4,
-          texto: 'La participación comunitaria permite:',
+          texto: 'La asignación de responsabilidades permite:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Concentrar las decisiones en un solo líder.',
+              texto: 'Evitar el trabajo en equipo.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Delegar todas las responsabilidades a entidades externas.',
+              texto: 'Eliminar la necesidad de supervisión.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Involucrar a las personas en la identificación de necesidades y toma de decisiones.',
-              esCorrecta: true,
+              texto: 'Reducir la comunicación organizacional.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Limitar la intervención de los actores locales.',
-              esCorrecta: false,
+              texto:
+                'Distribuir funciones y compromisos entre los participantes.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 5,
           texto:
-            'Dentro de la jerarquía normativa colombiana, la norma de mayor nivel es:',
+            '¿Cuál de los siguientes factores puede limitar la implementación de un modelo organizacional?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'La resolución.', esCorrecta: false },
-            { id: 'b', texto: 'El decreto.', esCorrecta: false },
             {
-              id: 'c',
-              texto: 'La circular administrativa.',
+              id: 'a',
+              texto: 'Participación activa de los miembros.',
               esCorrecta: false,
             },
-            { id: 'd', texto: 'La Constitución Política.', esCorrecta: true },
+            {
+              id: 'b',
+              texto: 'Disponibilidad de recursos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Falta de compromiso de los participantes.',
+              esCorrecta: true,
+            },
+            { id: 'd', texto: 'Buena comunicación.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 6,
           texto:
-            'El Sistema Nacional de Innovación Agropecuaria (SNIA) tiene como finalidad:',
+            'Una estrategia de comunicación organizacional tiene como finalidad:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Regular exclusivamente la comercialización agrícola.',
+              texto: 'Restringir el acceso a la información.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Fortalecer los procesos de innovación y extensión agropecuaria.',
+                'Facilitar el intercambio de información entre los actores involucrados.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Administrar los recursos tributarios municipales.',
+              texto: 'Reducir las reuniones de trabajo.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Supervisar únicamente proyectos ambientales.',
+              texto: 'Sustituir los procesos administrativos.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 7,
-          texto: 'El Diagnóstico Rural Participativo (DRP) se caracteriza por:',
+          texto:
+            '¿Cuál de las siguientes es una herramienta de comunicación efectiva?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Ser elaborado únicamente por expertos externos.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Excluir a la comunidad de la toma de decisiones.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto:
-                'Promover la participación activa de la comunidad en el análisis de su realidad.',
-              esCorrecta: true,
-            },
-            {
-              id: 'd',
-              texto: 'Utilizar exclusivamente información estadística.',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Boletines informativos.', esCorrecta: true },
+            { id: 'b', texto: 'Cartografía social.', esCorrecta: false },
+            { id: 'c', texto: 'Árbol de problemas.', esCorrecta: false },
+            { id: 'd', texto: 'Matriz DOFA.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 8,
-          texto: 'Una de las técnicas más utilizadas en el DRP es:',
+          texto: 'La socialización de planes y resultados busca:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'La auditoría financiera.', esCorrecta: false },
-            { id: 'b', texto: 'La cartografía social.', esCorrecta: true },
-            { id: 'c', texto: 'El peritaje judicial.', esCorrecta: false },
-            { id: 'd', texto: 'La licitación pública.', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Ocultar información sensible.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Compartir información con los actores interesados y promover su participación.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Limitar la toma de decisiones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Evitar la retroalimentación.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 9,
-          texto: 'La identificación de actores permite:',
+          texto: '¿Qué se entiende por grupo de interés?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Reconocer las personas e instituciones que influyen en los procesos organizacionales.',
-              esCorrecta: true,
+              texto: 'Personas que realizan actividades recreativas.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Determinar únicamente la cantidad de habitantes de una comunidad.',
+              texto: 'Equipos de trabajo temporales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Clasificar cultivos según su productividad.',
+              texto: 'Organizaciones privadas exclusivamente.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Establecer impuestos territoriales.',
-              esCorrecta: false,
+              texto:
+                'Actores que pueden influir o verse afectados por las decisiones de la organización.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 10,
-          texto: 'Los factores internos de una organización incluyen:',
+          texto:
+            'La gestión de la participación durante la implementación permite:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Las políticas nacionales.', esCorrecta: false },
-            { id: 'b', texto: 'El clima de la región.', esCorrecta: false },
             {
-              id: 'c',
-              texto: 'Los recursos, capacidades y estructura organizativa.',
+              id: 'a',
+              texto:
+                'Fortalecer el compromiso y la apropiación de los procesos organizacionales.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto: 'Incrementar los conflictos internos.',
+              esCorrecta: false,
+            },
+            { id: 'c', texto: 'Reducir la comunicación.', esCorrecta: false },
+            {
               id: 'd',
-              texto: 'Las condiciones del mercado internacional.',
+              texto: 'Eliminar responsabilidades.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 11,
-          texto: 'La matriz DOFA es una herramienta utilizada para:',
+          texto: '¿Qué es el seguimiento organizacional?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Calcular costos de producción.',
+              texto:
+                'Un proceso de control y observación del avance de las actividades.',
+              esCorrecta: true,
+            },
+            { id: 'b', texto: 'Una estrategia financiera.', esCorrecta: false },
+            { id: 'c', texto: 'Un mecanismo jurídico.', esCorrecta: false },
+            {
+              id: 'd',
+              texto: 'Un sistema de contratación.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+        },
+        {
+          id: 12,
+          texto: 'La coordinación de actividades tiene como propósito:',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Duplicar funciones dentro de la organización.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Analizar fortalezas, oportunidades, debilidades y amenazas.',
+                'Organizar y armonizar las acciones necesarias para alcanzar los objetivos.',
+              esCorrecta: true,
+            },
+            { id: 'c', texto: 'Eliminar la planificación.', esCorrecta: false },
+            { id: 'd', texto: 'Reducir la participación.', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+        },
+        {
+          id: 13,
+          texto: '¿Qué permite verificar un cronograma?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'La misión institucional.', esCorrecta: false },
+            {
+              id: 'b',
+              texto: 'El cumplimiento de actividades y tiempos establecidos.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Elaborar presupuestos financieros.',
-              esCorrecta: false,
-            },
-            { id: 'd', texto: 'Diseñar sistemas de riego.', esCorrecta: false },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
-        },
-        {
-          id: 12,
-          texto: 'Un modelo organizacional corresponde a:',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Un documento legal de constitución empresarial.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Un mecanismo de control tributario.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Una estrategia de comercialización.',
+              texto: 'Los recursos naturales disponibles.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'La estructura y forma de funcionamiento de una organización.',
-              esCorrecta: true,
+              texto: 'La estructura legal de una organización.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
-        },
-        {
-          id: 13,
-          texto: '¿Cuál de los siguientes es un modelo organizacional?',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Modelo participativo.', esCorrecta: true },
-            { id: 'b', texto: 'Modelo tributario.', esCorrecta: false },
-            { id: 'c', texto: 'Modelo presupuestal.', esCorrecta: false },
-            { id: 'd', texto: 'Modelo contractual.', esCorrecta: false },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 14,
           texto:
-            'Una característica de las organizaciones rurales y comunitarias es:',
+            '¿Cuál de las siguientes herramientas es utilizada para el seguimiento organizacional?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'La búsqueda de beneficios individuales.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'La participación colectiva y el trabajo colaborativo.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'La exclusión de actores territoriales.',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Lista de verificación.', esCorrecta: true },
+            { id: 'b', texto: 'Constitución Política.', esCorrecta: false },
+            { id: 'c', texto: 'Organigrama familiar.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'La dependencia exclusiva de entidades públicas.',
+              texto: 'Reglamento interno escolar.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 15,
-          texto: 'Los indicadores organizacionales permiten:',
+          texto: 'La interpretación de resultados permite:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Medir el desempeño y cumplimiento de objetivos.',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Sustituir el seguimiento.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Sustituir los procesos de planeación.',
-              esCorrecta: false,
+              texto:
+                'Analizar los avances y dificultades de la implementación.',
+              esCorrecta: true,
             },
-            {
-              id: 'c',
-              texto: 'Eliminar la necesidad de seguimiento.',
-              esCorrecta: false,
-            },
+            { id: 'c', texto: 'Eliminar la evaluación.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'Determinar únicamente el número de integrantes.',
+              texto: 'Reducir la participación de los actores.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 16,
-          texto: 'El trabajo en equipo favorece:',
+          texto: '¿Cuál es el propósito principal de un informe de resultados?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La concentración de funciones en una sola persona.',
-              esCorrecta: false,
+              texto:
+                'Registrar y comunicar los avances, logros y dificultades del proceso.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'La reducción de la participación.',
+              texto: 'Reemplazar las reuniones de trabajo.',
               esCorrecta: false,
             },
-            {
-              id: 'c',
-              texto: 'La eliminación de responsabilidades.',
-              esCorrecta: false,
-            },
+            { id: 'c', texto: 'Generar nuevas normas.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'La cooperación para alcanzar objetivos comunes.',
-              esCorrecta: true,
+              texto: 'Eliminar la documentación institucional.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 17,
-          texto: 'El liderazgo participativo se caracteriza por:',
+          texto:
+            '¿Cuál de los siguientes elementos hace parte de la estructura básica de un informe?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Tomar decisiones sin consultar al grupo.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Delegar todas las funciones a terceros.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Mantener una estructura exclusivamente vertical.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto:
-                'Promover la participación de los integrantes en la toma de decisiones.',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Introducción.', esCorrecta: true },
+            { id: 'b', texto: 'Publicidad institucional.', esCorrecta: false },
+            { id: 'c', texto: 'Inventario comercial.', esCorrecta: false },
+            { id: 'd', texto: 'Catálogo de productos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 18,
-          texto: 'La planeación estratégica busca:',
+          texto: 'Una oportunidad de mejora corresponde a:',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto:
-                'Definir el rumbo y los objetivos de la organización a mediano y largo plazo.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Controlar únicamente los recursos financieros.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Elaborar informes estadísticos.',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Un problema sin solución.', esCorrecta: false },
+            { id: 'b', texto: 'Una obligación jurídica.', esCorrecta: false },
+            { id: 'c', texto: 'Un recurso económico.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'Sustituir los procesos participativos.',
-              esCorrecta: false,
+              texto:
+                'Una situación que puede fortalecerse para optimizar el desempeño organizacional.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 19,
-          texto: 'Un plan de acción debe incluir:',
+          texto:
+            '¿Cuál de las siguientes herramientas es utilizada para el ajuste organizacional?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Objetivos, actividades, responsables y recursos.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Únicamente el presupuesto disponible.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Exclusivamente las metas financieras.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'Solamente los resultados esperados.',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Matriz DOFA.', esCorrecta: true },
+            { id: 'b', texto: 'Registro civil.', esCorrecta: false },
+            { id: 'c', texto: 'Escritura pública.', esCorrecta: false },
+            { id: 'd', texto: 'Factura comercial.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
         },
         {
           id: 20,
-          texto: 'El seguimiento y evaluación del plan de acción permiten:',
+          texto: '¿Cuál es la finalidad de las acciones de mejora?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Limitar la participación comunitaria.',
+              texto: 'Incrementar los procesos administrativos innecesarios.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Reemplazar la ejecución de actividades.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
               texto:
-                'Verificar avances, identificar dificultades y apoyar la toma de decisiones.',
+                'Corregir dificultades y fortalecer el desempeño organizacional.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto: 'Eliminar la participación comunitaria.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: 'Eliminar la necesidad de indicadores.',
+              texto: 'Sustituir la planeación estratégica.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'Ha superado la actividad y demuestra sólidos conocimientos sobre la implementación, seguimiento y mejora del modelo organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la planeación organizacional y gestión de procesos participativos.',
+            'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
       ],
       mensaje_final_aprobado:
