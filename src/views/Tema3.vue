@@ -77,7 +77,7 @@
             td.text-start Permite identificar el nivel de avance de las metas establecidas, evaluar resultados obtenidos y determinar si las acciones ejecutadas contribuyen al logro de los propósitos organizacionales.
             td.text-start Evaluación del aumento en la producción agrícola proyectada.
           tr
-            td Mejoramiento continuo
+            td.text-start Mejoramiento continuo
             td.text-start Genera información útil para identificar fortalezas, oportunidades de mejora y acciones de fortalecimiento que contribuyan al desarrollo y crecimiento de la organización.
             td.text-start Implementación de mejoras en los procesos de comercialización.
 
