@@ -127,8 +127,6 @@
       img(src='@/assets/curso/tema4/img_5.svg', class="img-fluid d-block d-lg-none", alt="La figura describe las principales secciones que conforman un informe. La secuencia incluye la identificación del documento, la contextualización del tema, la definición de propósitos, la descripción de actividades, el análisis de resultados, las conclusiones, las recomendaciones y los anexos.").mb-3
       figcaption Nota. SENA, (2026).
 
-    p.mb-5(data-aos="zoom-in-right") Aunque la estructura de un informe puede variar según la naturaleza de la organización, el tipo de actividad desarrollada o los requerimientos institucionales, existen algunos componentes básicos que contribuyen a garantizar la calidad y utilidad del documento.
-
     .subtitulo-destacado.mb-5
       .subtitulo-destacado__icono
         img(src='@/assets/curso/tema2/img_13.svg', aria-hidden='true').subtitulo-destacado__img
@@ -313,7 +311,7 @@
     .mb-0 
 
     .cajon.color-acento-contenido.p-4.mb-4(data-aos="zoom-in-right")
-      p.mb-0 Las acciones de mejora son actividades diseñadas para corregir dificultades, fortalecer procesos o incrementar la efectividad organizacional. Estas acciones pueden surgir de los procesos de evaluación, seguimiento o análisis de resultados. Su formulación requiere identificar claramente el problema o situación a mejorar, establecer objetivos específicos y definir actividades concretas que permitan alcanzar los resultados esperados
+      p.mb-0 Las acciones de mejora son actividades diseñadas para corregir dificultades, fortalecer procesos o incrementar la efectividad organizacional. Estas acciones pueden surgir de los procesos de evaluación, seguimiento o análisis de resultados. Su formulación requiere identificar claramente el problema o situación a mejorar, establecer objetivos específicos y definir actividades concretas que permitan alcanzar los resultados esperados.
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="zoom-in-right")
       h5 Tabla 9.
@@ -374,7 +372,7 @@
                 img(src='@/assets/curso/tema4/img_16.svg', class="img-fluid")
             .col-12.col-lg-10.mb-3
               h5.mb-0 Actividades propuestas
-              p.mb-0 Conjunto de acciones que se desarrollarán para lograr el objetivo
+              p.mb-0 Conjunto de acciones que se desarrollarán para lograr el objetivo.
       .col-12.col-lg-6.mb-4
         .tarjeta.color-secundario-20.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
@@ -410,7 +408,7 @@
                 img(src='@/assets/curso/tema4/img_20.svg', class="img-fluid")
             .col-12.col-lg-10.mb-3
               h5.mb-0 Indicadores de seguimiento
-              p.mb-0 Criterios utilizados para medir el avance y cumplimiento de las acciones
+              p.mb-0 Criterios utilizados para medir el avance y cumplimiento de las acciones.
       .col-12.col-lg-6.mb-4
         .tarjeta.color-secundario-20.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0

@@ -149,7 +149,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-12.col-xl-8.mb-3.mb-lg-0.order-2.order-lg-2.odrer-xl-1
             h5.mb-4 Tecnológicos
-            p.mb-0 Son las diferentes herramientas, equipos y sistemas tecnológicos que apoyan la gestión organizacional. Incluyen software, hardware, plataformas digitales, sistemas de información y medios de comunicación que facilitan el acceso a datos, mejoran los procesos y fortalecen la toma de decisiones.
+            p.mb-0 Son las diferentes herramientas, equipos y sistemas tecnológicos que apoyan la gestión organizacional. Incluyen <em>software</em>, <em>hardware</em>, plataformas digitales, sistemas de información y medios de comunicación que facilitan el acceso a datos, mejoran los procesos y fortalecen la toma de decisiones.
           .col-12.col-lg-6.col-xl-4.mb-3.mb-lg-0.order-1.order-lg-1.order-xl-2
             figure
               img(src='@/assets/curso/tema1/img_14.png', class="img-fluid")
@@ -275,7 +275,7 @@
         .tabla-a.mb-0(data-aos="flip-left")
           table
             caption 
-              p.mb-0 Nota. SENA, (2026)
+              p.mb-0 Nota. SENA, (2026).
             thead
               tr
                 th.col-auto.col-lg-3 Factor

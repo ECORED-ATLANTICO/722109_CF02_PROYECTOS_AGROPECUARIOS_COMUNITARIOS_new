@@ -31,7 +31,7 @@
                 p.mb-0 Lo invitamos a visitar el siguiente enlace en donde se presenta una descripción de lo que es la comunicación.
               .bloque-enlace__accion
                 a.boton-enlace(href="https://www.youtube.com/watch?v=MbfA7LEGRrQ" target="_blank" rel="noopener noreferrer")
-                  span.boton-enlace__texto Enlace
+                  span.boton-enlace__texto Abrir video
                   i.fab.fa-youtube.boton-enlace__icono
 
     Separador
@@ -108,11 +108,11 @@
 
     .titulo-sexto.color-acento-contenido.mb-3
       h5 Figura 1.
-      |    Elementos de la comunicación.
+      |    Elementos de la comunicación
     figure(data-aos="flip-left").mb-5
       img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura describe los Elementos de la comunicación ambientada en un entorno agropecuario. Una productora agrícola y un productor pecuario intercambian información mediante un esquema que explica los elementos de la comunicación, los cuales son: emisor, código, mensaje, canal, receptor y referente.").mb-3
       img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura describe los Elementos de la comunicación ambientada en un entorno agropecuario. Una productora agrícola y un productor pecuario intercambian información mediante un esquema que explica los elementos de la comunicación, los cuales son: emisor, código, mensaje, canal, receptor y referente.").mb-3
-      figcaption Nota. SENA, (2026)
+      figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-right")
       .col-12.col-lg-10
@@ -192,7 +192,7 @@
     .tabla-a.mb-4(data-aos="flip-left")
       table
         caption 
-          p.mb-0 Nota. SENA, (2026)
+          p.mb-0 Nota. SENA, (2026).
         thead
           tr
             th.col-auto.col-lg-3 Herramienta de comunicación organizacional
@@ -453,7 +453,7 @@
     figure(data-aos="flip-left").mb-5
       img(src='@/assets/curso/tema2/img_26.svg', class="img-fluid d-none d-lg-block", alt="La figura describe en forma de secuencia, diversos aspectos que deben considerarse al momento de realizar una presentación de información.  Entre los aspectos abordados se encuentran la definición del propósito, el conocimiento de la audiencia, la organización de la información, el uso de recursos de apoyo, la presentación de evidencias y la gestión del tiempo. La ilustración utiliza un contexto rural para resaltar la importancia de una comunicación clara, organizada y efectiva.").mb-3
       img(src='@/assets/curso/tema2/img_27.svg', class="img-fluid d-block d-lg-none", alt="La figura describe en forma de secuencia, diversos aspectos que deben considerarse al momento de realizar una presentación de información.  Entre los aspectos abordados se encuentran la definición del propósito, el conocimiento de la audiencia, la organización de la información, el uso de recursos de apoyo, la presentación de evidencias y la gestión del tiempo. La ilustración utiliza un contexto rural para resaltar la importancia de una comunicación clara, organizada y efectiva.").mb-3
-      figcaption Nota. SENA, (2026)
+      figcaption Nota. SENA, (2026).
     
     p.mb-4(data-aos="zoom-in-right") Además de estos aspectos, es recomendable prever espacios para preguntas, comentarios y retroalimentación, permitiendo que los participantes expresen sus opiniones y aporten sugerencias que contribuyan al fortalecimiento de los procesos organizacionales.
 

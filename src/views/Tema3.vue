@@ -37,7 +37,7 @@
       .col-12.col-lg-8.mb-3.mb-lg-0
         .tarjeta.color-secundario-10.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
           p.mb-0 El seguimiento organizacional es un proceso sistemático mediante el cual se recopila, analiza y utiliza información sobre el desarrollo de las actividades y el cumplimiento de los objetivos organizacionales. Su finalidad es verificar el avance de las acciones programadas y facilitar la toma de decisiones oportunas durante la implementación. El seguimiento no se limita a la observación de actividades, sino que implica un análisis permanente de los resultados obtenidos, los recursos utilizados y las dificultades que puedan afectar el logro de los objetivos. A través de este proceso, las organizaciones pueden conocer el estado real de sus acciones, identificar oportunidades de mejora y establecer medidas que permitan fortalecer la gestión organizacional.
-        p.mb-0(data-aos="zoom-in-right") En el contexto de las organizaciones rurales y comunitarias, el seguimiento constituye una herramienta fundamental para garantizar que los esfuerzos realizados por los diferentes actores se orienten al cumplimiento de las metas establecidas. Además, permite mantener un control permanente sobre la ejecución de las actividades, fortaleciendo la capacidad de gestión y la responsabilidad en el uso de los recursos disponibles
+        p.mb-0(data-aos="zoom-in-right") En el contexto de las organizaciones rurales y comunitarias, el seguimiento constituye una herramienta fundamental para garantizar que los esfuerzos realizados por los diferentes actores se orienten al cumplimiento de las metas establecidas. Además, permite mantener un control permanente sobre la ejecución de las actividades, fortaleciendo la capacidad de gestión y la responsabilidad en el uso de los recursos disponibles.
 
     .subtitulo-destacado.mb-5
       .subtitulo-destacado__icono
@@ -63,7 +63,7 @@
           tr
             td.text-start Control de actividades
             td.text-start Permite verificar el cumplimiento de las acciones programadas, identificar retrasos o dificultades y garantizar que las actividades se desarrollen conforme a la planificación establecida.
-            td.text-start Seguimiento al cronograma de siembra y cosecha
+            td.text-start Seguimiento al cronograma de siembra y cosecha.
           tr.bg-table-01
             td.text-start Toma de decisiones
             td.text-start Facilita la identificación de situaciones que requieren ajustes, proporcionando información confiable para implementar acciones correctivas y mejorar el desarrollo de los procesos organizacionales.
@@ -320,10 +320,6 @@
               .col-12.col-lg-10.mb-0
                 h5.mb-4 Matrices de seguimiento
                 p.mb-0 Propone acciones preventivas, correctivas o de mejora orientadas a fortalecer los procesos y optimizar futuros resultados organizacionales.
-            .row.justify-content-center.align-items-center
-              .col-12.col-lg-10.mb-0
-                h5.mb-4 Presentación de conclusiones
-                p.mb-0 Organizan información relacionada con actividades, responsables, recursos y avances, facilitando el control y la evaluación de los procesos organizacionales.
       .col-10.col-lg-4.mb-3.mb-md-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_16.png', class="img-fluid")
@@ -338,7 +334,7 @@
     .tabla-a.mb-4(data-aos="flip-left")
       table
         caption 
-          p.mb-0 Nota. SENA, (2026)
+          p.mb-0 Nota. SENA, (2026).
         thead
           tr
             th.col-auto.col-lg-auto Actividad
