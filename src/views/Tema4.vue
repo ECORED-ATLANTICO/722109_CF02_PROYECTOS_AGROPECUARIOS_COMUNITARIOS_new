@@ -418,6 +418,23 @@
             .col-12.col-lg-10.mb-3
               h5.mb-0 Resultados esperados
               p.mb-0 Beneficios o cambios que se pretende obtener una vez implementadas las mejoras. 
+    
+    br
+    br
+    .row.justify-content-center.mb-5(data-aos="zoom-in-right")
+      .col-12.col-lg-8
+        .tarjeta.color-primario.p-5.rounded-3.mb-3
+          .row.justify-content-center.align-items-center.mb-0
+            .col-8.col-md-6.col-lg-6.mb-lg-0.mb-3
+              figure
+                img(src="@/assets/curso/tema2/img_20.png", class="img-fluid w-100")
+            .col-12.col-lg-6.mb-lg-0
+              h2.mb-5.text-white Pódcast
+              TarjetaAudio.color-acento-botones.mb-0.p-5(
+                texto="<I>Evaluar para crecer: herramientas para mejorar las organizaciones comunitarias.</I>"
+                :audio="require('@/assets/curso/podcast/podcast_2.mp3')"
+                @audio-hover="mostrarIndicadorTarjetaAudio = True")
+                .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 </template>
 
 <script>
