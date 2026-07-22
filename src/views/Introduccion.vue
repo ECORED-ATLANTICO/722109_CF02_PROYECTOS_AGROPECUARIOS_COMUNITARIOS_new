@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-4 El componente formativo Implementación, seguimiento y mejora del modelo organizacional se orienta al fortalecimiento de las competencias técnicas, organizacionales y metodológicas necesarias para ejecutar, verificar y ajustar modelos organizacionales en organizaciones rurales y comunitarias. En el marco del programa Proyectos Agropecuarios Comunitarios, este componente busca que el aprendiz adquiera herramientas que le permitan coordinar actividades, gestionar procesos de implementación y realizar acciones de seguimiento orientadas al fortalecimiento de la gestión organizacional y comunitaria.
+    p.mb-4 El componente formativo "Implementación, seguimiento y mejora del modelo organizacional" se orienta al fortalecimiento de las competencias técnicas, organizacionales y metodológicas necesarias para ejecutar, verificar y ajustar modelos organizacionales en organizaciones rurales y comunitarias. En el marco del programa Técnico profesional en proyectos agropecuarios comunitarios, este componente busca que el aprendiz adquiera herramientas que le permitan coordinar actividades, gestionar procesos de implementación y realizar acciones de seguimiento orientadas al fortalecimiento de la gestión organizacional y comunitaria.
 
     .row.justify-content-center.align-items-start.mb-4
       .col-12.col-lg-9.mb-0.order-2.order-lg-1(data-aos="flip-left")

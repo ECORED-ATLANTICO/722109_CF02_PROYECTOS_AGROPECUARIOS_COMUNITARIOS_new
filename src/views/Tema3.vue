@@ -290,7 +290,7 @@
 
     p.mb-4(data-aos="zoom-in-right") Las herramientas de seguimiento facilitan la recopilación, organización y análisis de información relacionada con el desarrollo de las actividades organizacionales. Su utilización permite medir avances, verificar resultados y documentar el proceso de implementación. La selección de las herramientas depende de los objetivos del seguimiento, la complejidad de las actividades y las necesidades de información de la organización.
 
-    p.mb-4(data-aos="zoom-in-right") Principales herramientas de seguimiento
+    p.mb-4(data-aos="zoom-in-right") Principales herramientas de seguimiento:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.mb-3.mb-lg-0.order-2.order-lg-1
@@ -319,7 +319,7 @@
             .row.justify-content-center.align-items-center
               .col-12.col-lg-10.mb-0
                 h5.mb-4 Matrices de seguimiento
-                p.mb-0 Propone acciones preventivas, correctivas o de mejora orientadas a fortalecer los procesos y optimizar futuros resultados organizacionales.
+                p.mb-0 Organizan información relacionada con actividades, responsables, recursos y avances, facilitando el control y la evaluación de los procesos organizacionales. 
       .col-10.col-lg-4.mb-3.mb-md-3.mb-lg-0.order-1.order-lg-2(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_16.png', class="img-fluid")
@@ -348,7 +348,7 @@
             td.text-start Comité de formación
             td.text-start 15/08/2026
             td.text-start Ejecutada
-            td.text-start Participó el 90% de los asociados.
+            td.text-start Participó el 90 % de los asociados.
           tr.bg-table-01
             td.text-start Reunión de seguimiento
             td.text-start Junta directiva
@@ -381,7 +381,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-4 Organización y consolidación de datos
-            p.mb-0 Ayuda la clasificación, depuración y estructuración de la información recopilada, permitiendo su consulta e interpretación de manera ordenada y eficiente.
+            p.mb-0 Ayuda a la clasificación, depuración y estructuración de la información recopilada, permitiendo su consulta e interpretación de manera ordenada y eficiente.
           .col-12.col-lg-5.order-1.order-lg-2.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/img_19.png', class="img-fluid")

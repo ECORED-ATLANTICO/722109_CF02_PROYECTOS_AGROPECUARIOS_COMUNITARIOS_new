@@ -110,8 +110,8 @@
       h5 Figura 1.
       |    Elementos de la comunicación
     figure(data-aos="flip-left").mb-5
-      img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura describe los Elementos de la comunicación ambientada en un entorno agropecuario. Una productora agrícola y un productor pecuario intercambian información mediante un esquema que explica los elementos de la comunicación, los cuales son: emisor, código, mensaje, canal, receptor y referente.").mb-3
-      img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura describe los Elementos de la comunicación ambientada en un entorno agropecuario. Una productora agrícola y un productor pecuario intercambian información mediante un esquema que explica los elementos de la comunicación, los cuales son: emisor, código, mensaje, canal, receptor y referente.").mb-3
+      img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura describe los elementos de la comunicación ambientada en un entorno agropecuario. Una productora agrícola y un productor pecuario intercambian información mediante un esquema que explica los elementos de la comunicación, los cuales son: emisor, código, mensaje, canal, receptor y referente.").mb-3
+      img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura describe los elementos de la comunicación ambientada en un entorno agropecuario. Una productora agrícola y un productor pecuario intercambian información mediante un esquema que explica los elementos de la comunicación, los cuales son: emisor, código, mensaje, canal, receptor y referente.").mb-3
       figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-right")
@@ -560,7 +560,7 @@
                 p.mb-0 Consiste en valorar las opiniones, conocimientos y aportes de los participantes, promoviendo relaciones basadas en la tolerancia, el diálogo y la convivencia durante la ejecución del proyecto agropecuario comunitario.
 
     .tarjeta.color-secundario-10.p-4.rounded-4.mb-0(data-aos="zoom-in-right")
-      p.mb-4(data-aos="zoom-in-right") La participación fortalece el sentido de pertenencia, mejora la coordinación de las actividades y facilita la construcción colectiva de soluciones. Además, permite que las decisiones respondan a las necesidades reales de la organización y de la comunidad, contribuyendo al éxito y sostenibilidad de los procesos organizacionales. Por tal motivo se establecen algunas estrategias para su fortalecer la participación como:
+      p.mb-4(data-aos="zoom-in-right") La participación fortalece el sentido de pertenencia, mejora la coordinación de las actividades y facilita la construcción colectiva de soluciones. Además, permite que las decisiones respondan a las necesidades reales de la organización y de la comunidad, contribuyendo al éxito y sostenibilidad de los procesos organizacionales. Por tal motivo se establecen algunas estrategias para fortalecer la participación como:
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-7.mb-3.mb-lg-0.order-2.order-lg-1
           ul.list-unstyled.mb-4
