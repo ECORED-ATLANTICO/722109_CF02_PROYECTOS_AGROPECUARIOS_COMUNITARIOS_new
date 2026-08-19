@@ -429,7 +429,7 @@
             td.text-start Apoyan o regulan los procesos organizacionales.
           tr.bg-table-01
             td.text-start Organizaciones aliadas
-            td.text-start Entidades que establecen relaciones de cooperación para fortalecer capacidades, recursos y acciones orientadas al logro de objetivos comunes
+            td.text-start Entidades que establecen relaciones de cooperación para fortalecer capacidades, recursos y acciones orientadas al logro de objetivos comunes.
             td.text-start Contribuyen al desarrollo de actividades conjuntas.
           tr
             td.text-start Financiadores
@@ -514,7 +514,7 @@
       .h2(data-aos="fade-right") 2.5 Gestión de la participación durante la implementación
     .mb-0 
 
-    p.mb-5(data-aos="zoom-in-right") La participación es un elemento fundamental para garantizar el éxito de los procesos organizacionales. Durante la implementación de actividades es necesario promover mecanismos que faciliten la intervención activa de los diferentes actores involucrados. La gestión de la participación comprende las acciones orientadas a motivar, coordinar y fortalecer el compromiso de las personas con el desarrollo de las actividades organizacionales. Entre los principios de participación tememos:
+    p.mb-5(data-aos="zoom-in-right") La participación es un elemento fundamental para garantizar el éxito de los procesos organizacionales. Durante la implementación de actividades es necesario promover mecanismos que faciliten la intervención activa de los diferentes actores involucrados. La gestión de la participación comprende las acciones orientadas a motivar, coordinar y fortalecer el compromiso de las personas con el desarrollo de las actividades organizacionales. Entre los principios de participación tenemos:
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-8.col-lg-6.col-xl-4.mb-3.mb-lg-3(data-aos="zoom-out-up")

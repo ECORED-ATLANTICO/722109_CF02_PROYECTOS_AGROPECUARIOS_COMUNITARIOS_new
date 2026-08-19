@@ -309,7 +309,7 @@ export default {
     },
     {
       referencia:
-        'Peris, O. (2022, 17 de enero). <em>Cómo elaborar un informe para presentar los resultados de tu estrategia</em>. InboundCycle.',
+        'Peris, O. (2022, 17 de enero). <em>Cómo elaborar un informe de resultados de tu estrategia</em>. InboundCycle.',
       link:
         'https://www.inboundcycle.com/blog-de-inbound-marketing/como-elaborar-informe-para-presentar-resultados-estrategia',
     },
@@ -321,13 +321,13 @@ export default {
     },
     {
       referencia:
-        'Suarez, M. (2023, 22 de marzo). <em>Comunicación organizacional: concepto, estrategias, ejemplos y beneficios</em>. Guía del Empresario.',
+        'Suarez, M. (2023, 22 de marzo). <em>Comunicación Organizacional.</em>',
       link:
-        'https://guiadelempresario.com/administracion/comunicacion-organizacional/',
+        'https://guiadelempresario.com/administracion/comunicacion-organizacional/ ',
     },
     {
       referencia:
-        'Universitat Carlemany. (2026, 11 de marzo). <em>Gestión del cambio organizacional: qué es, etapas y modelos</em>. Universitat Carlemany.',
+        'Universitat Carlemany. (2026, 11 de marzo). <em>Qué es la gestión del cambio organizacional, cómo aplicarla y por qué es clave para el éxito empresarial</em>. Universitat Carlemany.',
       link:
         'https://www.universitatcarlemany.com/actualidad/blog/gestion-cambio-organizacional-cp',
     },
@@ -354,7 +354,7 @@ export default {
       autores: [
         {
           nombre: 'Andrés Javier Pacheco Wandurraga',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
